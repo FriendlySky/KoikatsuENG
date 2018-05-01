@@ -1,0 +1,17 @@
+; Morning greeting
+「……おはよう」=「..Good morning.」
+
+; Conversation start
+「ねぇ、話……しよ？」=「Hey, let's.. talk?」
+
+; Love talk answers
+「フフ……壮亮の想像に任せるよ？」=「Fufu.. I'll leave that to your imagination..」
+「……ばか」=「..stupid.」
+「うん……大好き……でも、なんで？」=「Yeah.. I love you.. but why?」
+
+; H request
+「……私、壮亮と……エッチ、したいかも」=「..I want.. to do dirty things with you..」
+「……よかった。こういうの、どう言っていいか……わからないから」=「..I'm glad. I'm not sure how to put it..」
+「……よかった。こういうの、どう言っていいか……わから\n　ないから」=「..I'm glad. I'm not sure how to put it..」
+「……なんだか、大胆。でも、いつもより興奮して……すごく気持ちよかった」=「..Somehow, you were really bold. But, I was more excited than usual.. It felt really good..」
+「……なんだか、大胆。でも、いつもより興奮して……すご\n　く気持ちよかった」=「..Somehow, you were really bold. But, I was more excited than usual.. It felt really good..」

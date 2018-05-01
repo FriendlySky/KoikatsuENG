@@ -1,0 +1,84 @@
+; Settings
+初期化=Reinitialize
+設定を初期化しますか？=Reinitialize settings?
+
+;; Display
+Drawing settings=Display
+カメラエフェクト=Camera effect
+フォグを有効にする=Enable fog
+ブルームを有効にする=Enable bloom
+セルフシャドウを有効にする=Enable self shadow
+被写界深度を有効にする=Enable depth of field
+アンビエントオクルージョンを有効にする=Enable ambient occlusion
+サンシャフトを有効にする（光の木漏れ日表現）=Enable sun shaft (Representation of sunlight through sunlight)
+ビネットを有効にする（画面の周囲を暗くする効果）=Enable vignette (effect to darken the periphery of the screen)
+軽い=Light
+標準=Normal
+綺麗=Superb
+影とアウトライン=Shadows and outlines
+
+;; Advanced
+ADV=Advanced
+テキスト=text
+スキップ=Skip
+既読=Read only
+全て=All
+選択肢後スキップ継続=Continue skipping after choice
+選択肢後オート継続=Auto continue after choice
+次のテキスト表示時に音声を停止=Stop audio at next text display
+文字表示速度=Character display speed
+遅=Slow
+速=Fast
+自動送り待ち時間=Automatic waiting time
+短=Short
+長=Long
+テキストウィンドウ=Text window
+主人公のフォント=Protagonist text
+ヒロインのフォント=Heroine text
+主人公のサンプルテキスト=Protagonist sample text
+ヒロインのサンプルテキスト=Heroine sample text
+
+;; Sound
+サウンド=Sound
+全般=General
+マスター音量=Master
+環境音=Ambient
+ゲームSE=Game
+システムSE=System
+
+;; Voice
+音声=Voice
+モブ=Mob
+描画設定=Drawing settings
+マスター音量=Master volume
+
+;; Perversions
+男の体表示=Show male body
+男の服表示=Show male clothes
+男の靴表示=Show male shoes
+マップの表示=Show map
+男根表示=Show penis
+男のメインアクセサリー表示=Show male main accessories
+男のサブアクセサリー表示=Show male sub accessories
+常に視線をカメラに向ける=Always look at the camera
+常に首をカメラに向ける=Always turn to the camera
+マップの遮蔽表示=Show map boundaries
+男の単色化=Monochrome male
+カメラ初期化判断=Reinitialize camera
+汁物の表現=Cum display
+無し=None
+3D詳細=3D high
+3D簡易=3D low
+男の単色=Monochrome male color
+
+;; Miscellaneous
+眉の最前面表示=Show eyebrows in front
+目の最前面表示=Show eyes in front
+注視点の表示=Show fixation point
+頬赤の表示=Show cheek blush
+マップ移動設定=Map movement settings
+左クリック移動=Click to move
+登校人数=Number of students
+アクセサリー常時表示=Accessories always display
+頭の一部=Part of the head
+※ CPUやメモリーに負荷のかかる設定となります。\n　 マシンスペックやアクセサリの使用状況によって動作が不安定になりますのでご注意下さい。\n　 その場合は、登校人数を減らすなどの調整をして下さい。\n※ この設定が反映されるのは、各キャラの服装が次に変更されるタイミングとなります。=※ This affects the load on the CPU and memory. The game may become unstable depending on the computer's specifications and the use of accessories. If this is the case, please reduce the number of students.\n※ This setting will apply next time the characters are modified.

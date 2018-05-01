@@ -1,0 +1,86 @@
+;; Day start
+「よしっ！　今日も一日がんばりますか」=「Alright! I'll do my best today too!」
+「今日も良い日になりそうだ」=「Today is going to be a great day.」
+「よし、今日も積極的に行こう！」=「Alright, let's make progress today!」
+「んーっ、よく寝た。……あれ？　メモがある。なになに――」=「Nh.. I slept a lot.. Hm? There's a memo..」
+「んーっ、よく寝た。……あれ？　メモがある。なになに―\n　―」=「Nh.. I slept a lot.. Hm? There's a memo..」
+
+;; Small talk
+「音楽は聞く方？」=「What kind of music do you listen to?」
+「本とかって読んでる？　おすすめあったら教えて」=「Do you read any books? Do you have any recommendations for me?」
+
+;; Love talk
+「俺と結婚したい？」=「Would you marry me?」
+「俺のこと好き？」=「Do you like me?」
+「なあ鈴音、好きだよ」=「Hey Suzune, I like you.」
+「結婚願望ってある？」=「Do you want to get married?」
+「そういえば、屋上でさ……」=「That reminds me, on the rooftop..」
+「お前を抱きたいんだ……鈴音」=「I want to embrace you, Suzune..」
+「キスしたいなー、とかない？」=「I wanna kiss~ what do you think?」
+「そういえば、今日学園でさあ……」=「That reminds me, today at school..」
+「男と付き合うのとかって興味ある？」=「Are you interested in going out with a boy?」
+「きみって以外に面倒見いいよね？」=「Do you think caring for someone else is bothersome?」
+「もし、俺が付き合いたいっていったら。ど、どうする？」=「If I asked you out, w- what would you do?」
+「もし、俺が付き合いたいっていったら。ど、どうす\n　る？」=「If I asked you out, w- what would you do?」
+「俺と付き合ってくれたのって……何か理由があるの？」=「You're going out with me.. Is there a reason for it?」
+「仮に彼氏ができたとしたら、まず何がしたい？」=「If I were your boyfriend, what would you want to do first?」
+「白馬の王子様、とかに憧れる？」=「Do you dream about a knight on a white horse and things like that?」
+「白馬の王子様、とかに憧れる？」=「Do you dream about a knight on a white horse and things like that?」
+「この間、街で不良に絡まれそうになって……」=「Lately, it seems like they're involved in some shady things..」
+「俺と付き合ってくれたのって……何か理由がある\n　の？」=「You're going out with me.. Is there a reason for it?」
+「……今日の授業、ずっと千紗のこと考えていた気がする」=「..I thought about you during the entirety of the lesson.」
+「二人で居る時、たまに変な気持ちになるんだけど……」=「Sometimes, when we're together, I get this weird feeling..」
+「……今日の授業、ずっと千紗のこと考えていた気がす\n　る」=「..I thought about you during the entirety of the lesson.」
+「教えて欲しいんだけど……。鈴音の一番敏感なとこは？」=「Suzune, I wanted to know.. what's your most sensitive place?」
+「教えて欲しいんだけど……。鈴音の一番敏感なとこ\n　は？」=「Suzune, I wanted to know.. what's your most sensitive place?」
+「二人の間で、どうしてもこれだけは許せないことってあ　る？」=「Between us two, what is the one thing you wouldn't allow no matter what?」
+
+;; Perversion talk
+「は、恥ずかしい質問だけど、鈴音は……自分でしたりする？」=「Ah, I have an embarassing question.. do you play with yourself?」
+「は、恥ずかしい質問だけど、鈴音は……自分でしたりす\n　る？」=「Ah, I have an embarassing question.. do you play with yourself?」
+「女子でも……ムラムラすることある？」=「Do girls.. also get turned on?」
+
+;; Join club
+「コイカツ部に興味ない？　よかったら入ってほしいな」=「Are you interested by the Koikatsu club? If you'd like, you can join us.」
+
+;; Answers
+痩せているのが=I like lean figures
+小さいのが=I like small figures
+程よいのが=I like normal figures
+高いのが=I like tall figures
+ぽっちゃりしているのが=I like chubby figures
+してない=I am not
+してる=I am
+そんなに食べない=I don't eat that much
+どうかと思う=I'm not sure
+必要ない=Not needed
+そうでもない=Not really
+好きだよ=I love it
+甘ったるいのは…=I don't like sugar..
+苦手かな=No good
+あんまり…=Not really…
+うん=Yeah
+う～ん…=Well..
+新しい服選び=I wear new clothes
+普段は制服だし…=My uniform usually..
+そうだね=That's right
+食べない=I wouldn't eat
+食べる=I'd eat
+食べれる=I can eat
+苦手=I'm weak at it
+得意=I'm good at it
+やっぱり？=I know, right?
+そうかなぁ…=I'm not sure..
+するよりキミとシたい=I want to do it with you at night
+目の前にいいオカズが…=In front of you is a bonus..
+わかってきた=I get you
+まだまだわからない=I still don't understand
+平気=All good
+飲める=I drink it
+飲めない=I don't drink it
+
+;; Unsorted
+「……良い事思いついた」=「..That's a good idea..」
+「今度、俺の家で泊まりで晩御飯食べよう」=「Next time, you should stay at my place so we can have dinner.」
+「そうなんだ？　なんかうれしいなぁ」=「You think? I'm happy to hear that..」
+「男の生態系ってこと？」=「Like how men think?」

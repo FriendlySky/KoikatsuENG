@@ -1,0 +1,169 @@
+; Conversation start
+「んっ？　我か？」=「Hm? Me?」
+「んっ？　なんだ？」=「Hm? What?」
+「ククッ、我と語り合おうぞ……」=「Kuh, kuh.. I shall converse with you!」
+「わ、我でいいのか？　何か手伝えることはあるか？」=「D- do you need me to help with something?」
+「ん？　なんだなんだ……我と一緒に居たいのか？　なんて……」=「Hm? What? What? Do you want to stay with me..?」
+「ん？　なんだなんだ……我と一緒に居たいのか？　なんて\n　……」=「Hm? What? What? Do you want to stay with me..?」
+「今、我の楔が解き放たれた！　もう邪魔するものはない、存分に……いちゃいちゃしようぞ！」=「Now, the seal has been broken! Nothing can stop us, we can freely.. flirt together!」
+「今、我の楔が解き放たれた！　もう邪魔するものはな\n　い、存分に……いちゃいちゃしようぞ！」=「Now, the seal has been broken! Nothing can stop us, we can freely.. flirt together!」
+「同胞から彼女へ……クククッ……」=「From comrade to girlfriend.. Kukuku..」
+「はっ！　た、たまに汝のことを考えると変な気持ちに……いい意味で……」=「Haa! S- sometimes I think about you, and it feels strange.. in a good way..」
+「はっ！　た、たまに汝のことを考えると変な気持ちに……\n　いい意味で……」=「Haa! S- sometimes I think about you, and it feels strange.. in a good way..」
+
+; Conversation start (surprised)
+「ぬがっ！　び、びっくりするではないか！？　もう……」=「Ngaah! Y- you surprised me.. jeez..」
+「ぬがっ！　び、びっくりするではないか！？　もう…\n　…」=「Ngaah! Y- you surprised me.. jeez..」
+
+; Conversation end
+「今日は楽しかったぞ！　人間界に降りてきてよかった」=「I had fun today! I'm glad to have descended the human world!」
+「ううぅ～……最近、汝と居ると時が経つのが早いぞ……」=「Uuh~ ..Lately, it feels like time with you passes quicker..」
+「ううぅ～……最近、汝と居ると時が経つのが早いぞ…\n　…」=「Uuh~ ..Lately, it feels like time with you passes quicker..」
+「汝との会話は楽しくて止まらぬな……時間がすぐ過ぎる」=「Talking with you is so fun, I wish time stopped.. time passes by too quickly..」
+「汝との会話は楽しくて止まらぬな……時間がすぐ過ぎ\n　る」=「Talking with you is so fun, I wish time stopped.. time passes by too quickly..」
+
+; Small talk answers
+「ふむ、何か他の話題はないのか？」=「Hmm. Don't you want to talk about something else?」
+「聞くが、我の音楽の趣味は、あまり理解されぬかも…\n　…」=「My taste in music is.. I can't really explain it..」
+
+; Love talk answers
+「なぬ！？　奴らいつの間にそのような関係に……」=「Huh!? They have that kind of relationship..?」
+「ふぁっ！？　な、汝はもう……我にぞっこんだな……」=「Fuah!? I- I've already.. fallen for you..」
+「ラブラブな会話ばかりしてると……なんか恥ずかしいぞ！　話題を変えよう！」=「If you're just going to get lovey-dovey.. it's embarassing! Let's change subjects!」
+「ラブラブな会話ばかりしてると……なんか恥ずかしい\n　ぞ！　話題を変えよう！」=「If you're just going to get lovey-dovey.. it's embarassing! Let's change subjects!」
+「そ、それは……は、恥ずかしいことをするのだ……男女で」=「T- that's.. e- embarassing.. for a man and a woman to..」
+「そ、それは……は、恥ずかしいことをするのだ……男女\n　で」=「T- that's.. e- embarassing.. for a man and a woman to..」
+「そ、それはふ、ふたりで添い寝したら……分かるか\n　も？」=「T- that's.. when t- two people sleep together.. do you get it?」
+「なぬ！？　そんな輩、我の力で骨と皮にしてやったの\n　にぃ……」=「What!? This clan, I shall reduce them to a pile of bones..」
+「ぬはっ！　な、なんちゅう質問だ！？　あ、あるのはあるのだが……」=「Nhaa! W- what is this question! They do, but..」
+「ぬはっ！　な、なんちゅう質問だ！？　あ、あるのはある\n　のだが……」=「Nhaa! W- what is this question! They do, but..」
+「わ、我もだ……なんか熱いものがこみ上げてくるのだ…　…」=「M- me too.. somehow, my heart feels really warm..」
+「い、いきなり何を聞いてくるのだ！？」=「W- what are you asking me so suddenly!?」
+「な！？　汝は良からぬ事を考えておるであろう？　まったくもう！」=「Wha-!? You're thinking about bad things, aren't you!?」
+「な！？　汝は良からぬ事を考えておるであろう？　まった\n　くもう！」=「Wha-!? You're thinking about bad things, aren't you!?」
+「ふむ、そうだな……でも、たまには外に連れて行かないと……我はふてくされるぞ！」=「Hmm. You're right.. but, it's good to go outside from time to time.. I would sulk otherwise!」
+「ふむ、そうだな……でも、たまには外に連れて行かないと\n　……我はふてくされるぞ！」=「Hmm. You're right.. but, it's good to go outside from time to time.. I would sulk otherwise!」
+「ふぇっ！？　そ、そうか……我の呪文が効いたみたいだな……」=「Fuee!? I, I see.. my spell has proven itself effective..」
+「ふぇっ！？　そ、そうか……我の呪文が効いたみたいだな\n　……」=「Fuee!? I, I see.. my spell has proven itself effective..」
+「も、もちろん。我もいつかは……はっ！　な、何でもないぞ！」=「O- of course. Maybe I will one day too.. Haa! N- nevermind!」
+「も、もちろん。我もいつかは……はっ！　な、何でもない\n　ぞ！」=「O- of course. Maybe I will one day too.. Haa! N- nevermind!	」
+「我は緊張しやすいから……何もできないかも……」=「I would be so nervous.. I wouldn't be able to do anything..」
+「こら！　エロい話はここで終了するぞ！　もう……」=「Hey! We can't talk about this here! Jeez..」
+「ふぁっ！？　え、えーと、そ、それならばまずは、悪魔と\n　の契約を交わさねばな！」=「Fuah!? W- well.. first, we would have to make a contract!」
+
+; Perversion talk answers
+「た、たくさんありすぎて……汝が試せ……」=「There are a lot of places.. you can try..」
+
+; Questions
+「汝、我の体型はタイプか？」=「What do you think of my figure? Is it your type?」
+「汝はその……一人でするのか？」=「Do you.. do it when you're alone?」
+「そうであろうか？　汝から見るとそう見えるのか……」=「Do you think so? Do I look that way..?」
+「そ、そうか……そうだな。いつも我が傍にいるから必要ない！」=「I- I see.. I'll need to stay close to you then!」
+「そ、そうか……そうだな。いつも我が傍にいるから必要な\n　い！」=「I- I see.. I'll need to stay close to you then!」
+「我を言葉でムラムラさせてみろ。できたらご褒美をやるぞ……」=「If you manage to excite me with words, I will reward you..」
+「我を言葉でムラムラさせてみろ。できたらご褒美をやるぞ\n　……」=「If you manage to excite me with words, I will reward you..」
+「ふぇぇっ！　エロいぞ……興奮する……」=「Eeeh! That's erotic.. I'm excited..」
+「私の身長……どう思う？　好きか？」=「What do you think.. of my height? Do you like it?」
+「何を照れておるのだ！　聞いてるこっちも恥ずかしいのだ\n　ぞ！」=「Why are you embarassed!? I'm also embarassed..」
+「これからも俺についてきてくれる？」=「Will you keep accompanying me?」
+「わ、我なんかでよければ……もちろんであるぞ！」=「I- if you're fine with me, then of course I will!」
+「むふふ……どうだ？　モデルのような体型であろう？」=「Mufufu.. How about that? Don't I have a model's figure?」
+「むふふ……どうだ？　モデルのような体型であろ\n　う？」=「Mufufu.. How about that? Don't I have a model's figure?」
+
+; Go home together
+「い、一緒に帰る？　我らが……」=「Go home t- together? Us..?」
+「いや、こ、こちらこそお願いします……じゃなかった！　同行を許可する！」=「It's not that, I- I'm fine with it, so, please.. wait! You shall accompany me!」
+「いや、こ、こちらこそお願いします……じゃなかった！　\n　同行を許可する！」=「It's not that, I- I'm fine with it, so, please.. wait! You shall accompany me!」
+「お、男の子と、い、一緒に帰るのは慣れていない……」=「Going home w- with a b- boy is not something I'm used to..」
+「そ、そんなことない。き、緊張はするけど、うれしいぞ」=「T- that's not true! I'm n- nervous, but I'm glad..」
+「そ、そんなことない。き、緊張はするけど、うれしい\n　ぞ」=「T- that's not true! I'm n- nervous, but I'm glad..」
+「……どうやら、別れの時がきてしまったようだ」=「..It seems like the time to part ways has come..」
+「わ、我を汝の居城に招待してくれるのか！　う、うれしい……」=「You're inviting m- me to visit your domain! I'm so glad..」
+「わ、我を汝の居城に招待してくれるのか！　う、うれしい\n　……」=「You're inviting m- me to visit your domain! I'm so glad..」
+「ここが、汝の居城か……なかなか小綺麗にしておるではないか」=「So this is your domain.. it's quite tidy, huh?」
+「ここが、汝の居城か……なかなか小綺麗にしておるではな\n　いか」=「So this is your domain.. it's quite tidy, huh?」
+「ふぅ……はてさて、どうしたものか。我の心臓がかなり踊っておるぞ」=「Haa.. well then, what to do now. My heart is dancing..」
+「ふぅ……はてさて、どうしたものか。我の心臓がかなり\n　踊っておるぞ」=「Haa.. well then, what to do now. My heart is dancing..」
+「汝はしたくてたまらなかったのか？　実は我も……」=「Don't you feel like unbearable desire to do it? To be honest, I do too..」
+「汝の魔物から熱を帯びた魔力が伝わるぞ」=「I can feel the demonic power circulating within you!」
+「も、もっとくっついていたいなって……」=「I want to h- hug you more..」
+『眠ってたから、起こさないで先に学園いってくる！』=『You were still sleeping, so I'll be leaving first for school!」
+『なぜ悪魔の落とし子である我が、日直なんかしなくちゃならないのか……』=『Why am I the devil's fallen child.. I don't want to do the day duty..』
+『なぜ悪魔の落とし子である我が、日直なんかしなくちゃな\n　らないのか……』=『Why am I the devil's fallen child.. I don't want to do the day duty..』
+『学園で汝と会えるのを楽しみにしておるぞ』=『I'm looking forward to meeting you at school!』
+
+; Date
+「今度、我と魔界に行かぬか？　な、汝と一緒にいたいのだ……」=「Would you like to visit Hell with me, next time?　I want to go with you..」
+「今度、我と魔界に行かぬか？　な、汝と一緒にいたいのだ\n　……」=「Would you like to visit Hell with me, next time?　I want to go with you..」
+「そうか！　それでは、楽しみに待ってるぞ！」=「I see! Well then, I'm looking forward to it!」
+
+; Club activities
+「汝！　コイカツをするぞ……さあさあ……」=「Let's do club activities, come on, come on..!」
+「部活でも一緒だな……これはラブラブというやつかのう……」=「Club activities together.. getting lovey-dovey..」
+「部活でも一緒だな……これはラブラブというやつかのう…\n　…」=「Club activities together.. getting lovey-dovey..」
+「わ、我は今日、やってもらいたいことがあるのだ……」=「T- today, there's something I want to do..」
+「後ろから……ぎゅっってして欲しいのだ……」=「I want you.. to hug me from behind..」
+「こ、こら！　どさくさ紛れに胸を触っちゃダメだ！」=「H- hey! Don't take advantage of this to touch my chest!」
+「もう……なんか……我のお尻に硬い物が当たってるぞ……」=「Jeez.. for some reason, my butt is touching something hard..」
+「もう……なんか……我のお尻に硬い物が当たってるぞ…\n　…」=「Jeez.. for some reason, my butt is touching something hard..」
+「コイカツしないのか？　一緒にやろうぞ……」=「Don't you want to do club activities? Let's do them together..」
+「ふむ……どんな活動をしようかのう？」=「Hmm.. what kind of activities will we do..?」
+「一緒に部活するの、実は楽しみにしてたのだぞ？」=「Doing club activities together is fun, isn't it?」
+「コイカツで、男性という生き物をもっと知りたい……」=「So, I'd like to know more about men..」
+「い、いや、汝のこと……きょ、興味あるのだ」=「N- no.. about you.. I'm interested..」
+「……次のコイカツはいつするのだ？」=「..When will we do club activities again?」
+「お疲れである！　同胞よ！　またコイカツやろうぞ？」=「Thank you for today, my comrade! Let's do it again another time!」
+「お疲れである！　同胞よ！　またコイカツやろう\n　ぞ？」=「Thank you for today, my comrade! Let's do it again another time!」
+
+; Lunch
+「昼飯タイムなのだ……一緒に食べようぞー……」=「It's time for lunch~ let's go together~」
+「彼氏と食べる昼飯はうまいのだぁ～……」=「Lunch with my boyfriend is delicious~」
+「今日は、向かい合わせじゃなく隣に座るのだ」=「For today, we're not sitting face to face. We're sitting next to each other~」
+「一緒にお昼は最高であるぞ！　お腹も心も満たされて幸せである」=「Having lunch together is the best! Both my stomach and heart are full. This is happniess!」
+「一緒にお昼は最高であるぞ！　お腹も心も満たされて幸せ\n　である」=「Having lunch together is the best! Both my stomach and heart are full. This is happniess!」
+「汝、我と一緒に昼飯はどうだ？」=「Would you like to have lunch with me?」
+「よし！　楽しみであるな！　ふんふん！」=「Alright! This will be fun! Hm, hmm!」
+「ふぅー、満腹すぎて眠くなりそうであるな……」=「Fuu~ I'm full, and now I'm getting sleepy..」
+
+; Confession
+「えぇっ！　わ、私……いや、我を罠にはめようとしておるのか？」=「Eeh! Was, was I set up?」
+「えぇっ！　わ、私……いや、我を罠にはめようとしておる\n　のか？」=「Eeh! Was, was I set up?」
+「つまり……我は愛を告げられているのか！？」=「In other words.. you're confessing to me!?」
+「わ、私なんかで本当に良ければ……こちらこそ、よ、よろしくお願いします！」=「I- if you're fine with me, then.. p- please treat me well!」
+「わ、私なんかで本当に良ければ……こちらこそ、よ、よろ\n　しくお願いします！」=「I- if you're fine with me, then.. p- please treat me well!」
+「わ、我と同胞以上の関係にならぬか？　汝と契約したい……」=「W- we're comrades, right? I want to make a contract..」
+「わ、我と同胞以上の関係にならぬか？　汝と契約したい…\n　…」=「W- we're comrades, right? I want to make a contract..」
+「ふぇぇぇっ！　わ、我で本当にいいのか？　う、うれしいぞ……」=「Eeeeh! A- are you really fine with me? I'm glad..」
+「ふぇぇぇっ！　わ、我で本当にいいのか？　う、うれしい\n　ぞ……」=「Eeeeh! A- are you really fine with me? I'm glad..」
+
+; H request
+「わ、分かりやすい興奮の仕方であるな。ククッ……いいぞ、しても……」=「T- that's an obvious way of showing excitement.. Alright, let's do it..」
+「わ、分かりやすい興奮の仕方であるな。ククッ……いい\n　ぞ、しても……」=「T- that's an obvious way of showing excitement.. Alright, let's do it..」
+「わ、我の方から誘うのって、なんか我がエロいみたいではないか……でも、したいのだ……」=「I- I'd like to ask you something.. I.. want to do dirty things..」
+「わ、我の方から誘うのって、なんか我がエロいみたいでは\n　ないか……でも、したいのだ……」=「I- I'd like to ask you something.. I.. want to do dirty things..」
+「感謝する……恥ずかしいけど……ムラムラしてるのだぁ」=「I'm grateful.. it's embarassing, but.. I couldn't help myself..」
+「感謝する……恥ずかしいけど……ムラムラしてるの\n　だぁ」=「I'm grateful.. it's embarassing, but.. I couldn't help myself..」
+「……まだ、少しズキズキ痛い……。でも、あなたに初めてを捧げられて……うれしいです」=「..It still hurts a little bit.. but I'm happy that I gave you my first time..」
+「……まだ、少しズキズキ痛い……。でも、あなたに初めて\n　を捧げられて……うれしいです」=「..It still hurts a little bit.. but I'm happy that I gave you my first time..」
+
+;; Player
+「二人でインドアもなかなか楽しいよね！」=「We should head inside and have some fun!」
+「悪魔って結婚するの？」=「Do demons get married?」
+「悪魔の儀式ってどんなの？」=「Do demons hold some kind of ritual?」
+「悪魔の魔法ってどんなの？」=「Do demons have some kind of magic powers?」
+「悪魔って性感帯あるの？」=「Do demons have sensitive places?」
+「他に約束なかったら今日一緒に帰らない？」=「If you don't have any plans, what about going home together?」
+「だめかな？」=「You can't?」
+「いきなり誘ってごめん。緊張させたね」=「Sorry for asking you suddenly. You must be nervous.」
+「寂しいほど……次、会うのが楽しみになるよ」=「I'm so lonely.. I'm looking forward to seeing you again.」
+「せっかくだから俺の家にこない？」=「We've been this far already. Won't you come to my house?」
+「きみの事が好きなんだ……俺と契約しよう！」=「I love you.. form a contract with me!」
+「罠なんかじゃないよ！　 きみのことが気になって仕方がないんだ……」=「It's not a trap! It's a way of getting to know you better..」
+「罠なんかじゃないよ！　 きみのことが気になって仕方が\n　ないんだ……」=「It's not a trap! It's a way of getting to know you better..」
+「そうだよ。好きなんだ……俺と付き合って下さい」=「That's right. I love you.. please go out with me!」
+「頭から鈴音のことが離れないよ……どうすればいい？」=「We've been inseparable from the start.. what will we do?」
+「頭から鈴音のことが離れないよ……どうすればい\n　い？」=「We've been inseparable from the start.. what will we do?」
+「ん？　やってもらいたいこと？」=「Hm? Something you want to do?」
+「後ろから……いいよ」=「From behind.. alright.」
+「ちょ、ちょっとだけ。じっとしてて……」=「J- just a little bit. Be still..」
+「ご、ごめん……つい、男の生理現象が……」=「S- sorry, it's just.. a male physiological phenomenon..」

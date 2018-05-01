@@ -1,0 +1,55 @@
+; Conversation start
+「おっ？　あたしに用かー？」=「Oh? You need something?」
+「キミのこと気になって、なんにも集中できないぞ。どうしてくれるんだー」=「I keep thinking about you so I can't concentrate on anything.. What am I going to do?」
+「キミのこと気になって、なんにも集中できないぞ。どうし\n　てくれるんだー」=「I keep thinking about you so I can't concentrate on anything.. What am I going to do?」
+「くんくん……におう、におうぞー」=「Hm, hmm.. I smell something!」
+「ヤラしーこと考えてるにおいだぞ。へへー、あとでいっぱいヤろうな？」=「You're thinking about something suspicious, right? We'll do it plenty later, right? Hehe..」
+「ヤラしーこと考えてるにおいだぞ。へへー、あとでいっぱ\n　いヤろうな？」=「You're thinking about something suspicious, right? We'll do it plenty later, right? Hehe..」
+「デート、デート♪　うー、もう待てないー」=「Date, date ♪ I can't wait!」
+
+; Conversation end
+「へへー、キミはいいヤツだなー。また話そうなー」=「Hehe~ you're a good guy. Let's talk again later~」
+
+; Love talk
+「あー、あたしも見たことあるなー。危ない関係ってヤツ？」=「Ah! I saw them too. It's a risky relationship, huh?」
+「あー、あたしも見たことあるなー。危ない関係ってヤ\n　ツ？」=「Ah! I saw them too. It's a risky relationship, huh?」
+「おぉっ？　そりゃまー、好きな相手だったらなー」=「Ooh? That's.. well.. if it's with someone you like..」
+「うひゃー、恥ずかしいこと聞くなー。さすがにそれはないぞー」=「Hya, that's embarassing to hear.. Of course not..!」
+「うひゃー、恥ずかしいこと聞くなー。さすがにそれはない\n　ぞー」=「Hya, that's embarassing to hear.. Of course not..!」
+
+; Questions
+「キミは甘いの好きかー？」=「Do you like sweets?」
+「おー、男でも甘いの好きなんだなー。あたしも大好きだぞー」=「Oh~ even boys like sweets~ I love them~」
+「おー、男でも甘いの好きなんだなー。あたしも大好きだ\n　ぞー」=「Oh~ even boys like sweets~ I love them~」
+「キミは辛いの食べられるか？」=「Can you eat spicy food?」
+「うーん、そっかー。好みって難しいなー」=「Hmm.. I see.. tastes are complicated, huh..」
+
+; Go home together
+『壮亮くん、おはよー。よく寝てたから先に出るぞ』=『Sosuke-kun, good morning. I slept well and I'll be leaving first.』
+『ちゃんと顔洗って、ご飯食べてこいよー。また学園で会おう！』=『Wash your face properly and eat rice. See you at the school again!』
+『ちゃんと顔洗って、ご飯食べてこいよー。また学園で会お\n　う！』=『Wash your face properly and eat rice. See you at the school again!』
+『それと、寝顔にキスしておいた♪　裕子』=『Also, I kissed your sleeping face ♪ Yuko』
+
+; Lunch
+「なーなー、一緒にお昼すごそー？」=「Hey, hey! Wanna have lunch together?」
+「キミと一緒にいる時間が、最高のオカズだぞー」=「Spending time with you is the best dish!」
+「もう、お昼終わっちゃうのかー。また一緒に食べよーなー」=「Oh, we're done having lunch.. Let's eat together again!」
+「もう、お昼終わっちゃうのかー。また一緒に食べよー\n　なー」=「Oh, we're done having lunch.. Let's eat together again!」
+「おーい、一緒にお昼食べないかー？」=「Hey, wanna have lunch together?」
+「へへー、もうハラがペコペコだぞー。早く食べよー」=「Hehe~ I'm really hungry~ Let's go eat, quickly~」
+「へへー、アーンしてやろうかー？　ほら、アーン」=「Hehe~ Say aaah~ Here, aah~」
+「なんてなー。ぱくっ、もぐもぐ……」=「Just kidding! *munch munch*」
+「ハラいっぱいだぞー。午後、居眠りしなように気をつけないとなー」=「I'm full~ I'll have to be careful not to doze off this afternoon~」
+「ハラいっぱいだぞー。午後、居眠りしなように気をつけな\n　いとなー」=「I'm full~ I'll have to be careful not to doze off this afternoon~」
+
+; H request
+「こっちから誘おうと思ってたぞー。はやくヤろー！」=「I was thinking of asking you. Let's do it, quickly!」
+「こっちから誘おうと思ってたぞー。はやくヤ\n　ろー！」=「I was thinking of asking you. Let's do it, quickly!」
+「キミとエッチすると、色んなとこ責めたくなるぞ」=「When we're doing dirty things, I always want to do more!」
+「キミも、もっと好きにしていいんだぞ？　２人でもっと気持ちよくなろうな」=「What about you? We'll feel even better!」
+「キミも、もっと好きにしていいんだぞ？　２人でもっと気\n　持ちよくなろうな」=「What about you? We'll feel even better!」
+
+; Player
+「え、なんのにおい？」=「Eh? What smell?」
+「え！？　あ、アーン……」=「え！？　あ、アーン……」=「Eh!? A, aah..」
+「そ、それはズルいよ！　俺が恥ずかしいだけだよ！」=「Th- that's unfair! I was really embarassed!」

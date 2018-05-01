@@ -1,0 +1,5 @@
+; H request
+「あ、あの。お願いがあるんだけど……エッチして」=「Um, umm.. I have a favor to ask.. I'd like to do dirty things with you..」
+「ほんとに？　よかった……あたしから誘うの緊張するから……」=「Really? I'm glad.. Asking you made me really nervous..」
+「ほんとに？　よかった……あたしから誘うの緊張するから\n　……」=「Really? I'm glad.. Asking you made me really nervous..」
+「エッチ、付き合ってくれてありがと」=「Thanks for.. doing dirty things with me..」

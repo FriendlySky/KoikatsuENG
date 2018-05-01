@@ -1,0 +1,3 @@
+; Morning greeting
+「……おはよう。最近、やたらあなたの顔を見る気がするわね」=「..Good morning. It feels like I've been seeing you often lately.」
+「……おはよう。最近、やたらあなたの顔を見る気がするわ\n　ね」=「..Good morning. It feels like I've been seeing you often lately.」
