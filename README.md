@@ -1,5 +1,5 @@
 # KoikatsuENG
-English translation for Koikatsu. This is a solo project and I translate as I advance through the game. Some strings may be missing. I haven't figured out a way to translate the buttons yet, so only the text is translated.
+English translation for Koikatsu. This is a solo project and I translate as I advance through the game. Some strings may be missing. I haven't figured out a way to translate the buttons yet, so only the text is translated. English and Japanese aren't my native languages so there may be grammar or translation errors.
 
 ## Requirements
 Latest version of [BepInEx](https://github.com/bbepis/BepInEx/releases)
