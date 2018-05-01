@@ -236,10 +236,10 @@ Hしたい=Do H
 椅子先舐め＋竿舐め=Lick (chair)
 先舐め＋竿舐め=Lick + handjob
 椅子両手フェラ=Fellatio (2H, chair)
-立ち両手フェラ=Fellatio + double handjob
-立ち片手フェラ=Fellatio + handjob
-両手フェラ=Fellatio (1H)
-片手フェラ=Fellatio (2H)
+立ち両手フェラ=Fellatio (2H, stand)
+立ち片手フェラ=Fellatio (1H, stand)
+片手フェラ=Fellatio (1H)
+両手フェラ=Fellatio (2H)
 立ちノーハンドフェラ=Fellatio
 
 ;;; CHEST
