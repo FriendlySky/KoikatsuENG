@@ -146,12 +146,14 @@ Hしたい=Do H
 
 ;; School personnel
 語学教師(担任)=Language teacher (homeroom teacher)
+
+;;; Lina Robert
 「ここだけの話、授業をサボりたくなったら、保健室に来てもいいからね？」=「Between ourselves, if you want to skip class, why not go to the infirmary?」
 「ここだけの話、授業をサボりたくなったら、保健室に来て\n　もいいからね？」=「Between ourselves, if you want to skip class, why not go to the infirmary?」
 
-;; BOOKISH
+;;; Sakurai Nonoka
 
-; AREAS
+; Areas
 教室1-1=Classroom 1-1
 教室1-2=Classroom 1-2
 教室2-2=Classroom 2-2
@@ -182,7 +184,7 @@ Hしたい=Do H
 廊下３Ｆ=Corridor 3F
 屋上=Rooftop
 
-; H SCENE
+; H scene
 絶頂させて=Cautious
 射精して=Climax
 股間で絶頂したい=Cum inside
@@ -216,9 +218,9 @@ Hしたい=Do H
 外に出すよ=I'm cumming outside
 またお願い=Do it again
 
-; POSITIONS
+; Positions
 
-;; CARESS
+;; Caress
 立ち愛撫=Caress (stand)
 壁バック愛撫=Caress (wall)
 机バック愛撫=Caress (desk)
@@ -226,28 +228,28 @@ Hしたい=Do H
 
 ;; SERVICE
 
-;;; HAND
+;;; Hand
 片手コキ=Handjob
 立ち片手コキ=Handjob (stand)
 椅子片手コキ=Handjob (chair)
 立ちオナホ手コキ=Onahole
 
-;;; MOUTH
+;;; Mouth
 椅子先舐め＋竿舐め=Lick (chair)
 先舐め＋竿舐め=Lick + handjob
 椅子両手フェラ=Fellatio (2H, chair)
-立ち両手フェラ=Fellatio (2H, stand)
-立ち片手フェラ=Fellatio (1H, stand)
+立ち両手フェラ=Fellatio + double handjob
+立ち片手フェラ=Fellatio + handjob
 片手フェラ=Fellatio (1H)
 両手フェラ=Fellatio (2H)
 立ちノーハンドフェラ=Fellatio
 
-;;; CHEST
+;;; Chest
 パイズリ=Titfuck
 立ちパイズリ=Titfuck (stand)
 椅子パイズリ=Titfuck (chair)
 
-;; SEX
+;; Sex
 正常位=Missionary
 机寝位=Missionary (desk)
 開脚正常位=Spread legs
@@ -266,7 +268,12 @@ Hしたい=Do H
 椅子背面=On chair (back)
 駅弁=Carrying
 
-; NAMES
+; Other
+知力=Intelligence
+体力=Power
+Ｈ力=H power
+
+; Names
 壮亮=Sosuke
 柏木 壮亮=Kashiwagi Sosuke
 リナ ロベール=Lina Robert
