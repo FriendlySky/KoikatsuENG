@@ -52,6 +52,22 @@
 魔法少女=Magical Girl
 セクシーランジェリー=Sexy Lingerie
 
+;; Hair types
+ふわポニー=Soft Ponytail
+カールポニー=Curly Ponytail
+ツインカール=Curly Twintails
+ツインロール=Rolled Twintails
+ふわポニーロング=Soft Long Ponytail
+ふわツインウェーブ=Soft Wavy Twintails
+ショートツイン=Short Twintails
+ショートツインロール=Short Rolled Twintails
+ショートツインカール=Short Curly Twintails
+お団子シングル=Single Bun
+お団子ダブル=Double Bun
+アップバング=Up Bangs
+ウェーブショート=Short Wavy
+横分けぱっつん(右)=Parted Trimmed Bangs (R)
+
 ; Emblems
 None=None
 赤と青=Red and blue
@@ -279,6 +295,9 @@ Hしたい=Do H
 リナ ロベール=Lina Robert
 亜依=Ai
 野乃花=Nonoka
+凛花=Rika
+葵=Aoi
+千紗=Chisa
 有紗=Yusa
 裕子=Yuko
 杏理=Anri

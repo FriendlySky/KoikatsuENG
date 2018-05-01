@@ -3,11 +3,31 @@
 
 ; Conversation start
 「ねぇ、話……しよ？」=「Hey, let's.. talk?」
+「っ！　……あっ……なにか、用？」=「Oh! ..ah.. do you need something?」
+「昼食……あなたは、何で済ますの？」=「Lunch.. what are you going to have?」
+「……来ると、思ってた……ずっと見てたから」=「..I thought you'd come.. I've been watching you the whole time.」
+
+; Conversation end
+「じゃあ……また、お話……聞かせて？」=「Well.. Let's talk.. another time?」
 
 ; Love talk answers
 「フフ……壮亮の想像に任せるよ？」=「Fufu.. I'll leave that to your imagination..」
 「……ばか」=「..stupid.」
 「うん……大好き……でも、なんで？」=「Yeah.. I love you.. but why?」
+「……無い……そういうの苦手、だから」=「..Not at all.. I'm not good at it, so..」
+「……よくわからないけど……暖かい、感じかな」=「..I don't really understand, but.. it'd feel warm..?」
+「……ごめん。そういうのは、あまり興味ないから」=「..Sorry, I'm not really interested in that kind of thing.」
+「……知らなかった……進んでるんだね」=「..I didn't know. They're making progress, huh.」
+「……無い。断るときとか、疲れるし」=「..No. I'd reject them. It's tiresome.」
+
+; Lunch
+「……よかったら一緒に昼ご飯……食べない？」=「..Would you like to have lunch.. together..?」
+「……そう、よかった」=「..I see, I'm glad.」
+「……今日は、それだけ？」=「..You're having only that much today?」
+「う、うん！　あんまりお腹が空いてなくて……」=「Y- yeah! I don't feel very hungry..」
+「……本音は？」=「..What is it really?」
+「……少しお金を使い過ぎました」=「..I spent a bit too much money.」
+「……ご馳走さま。じゃあ、また……」=「..Thank you for the food. Well, see you next time..」
 
 ; H request
 「……私、壮亮と……エッチ、したいかも」=「..I want.. to do dirty things with you..」
@@ -15,3 +35,8 @@
 「……よかった。こういうの、どう言っていいか……わから\n　ないから」=「..I'm glad. I'm not sure how to put it..」
 「……なんだか、大胆。でも、いつもより興奮して……すごく気持ちよかった」=「..Somehow, you were really bold. But, I was more excited than usual.. It felt really good..」
 「……なんだか、大胆。でも、いつもより興奮して……すご\n　く気持ちよかった」=「..Somehow, you were really bold. But, I was more excited than usual.. It felt really good..」
+
+; Player
+「恋愛してみたいとか、思ったことある？」=「Did you ever think about love?」
+「理想の結婚生活ってある？」=「What is your ideal married life?」
+「誰かに告白されたいとか、思ったことある？」=「Have you ever wanted to be confessed to?」

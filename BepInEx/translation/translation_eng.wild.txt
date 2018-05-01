@@ -6,6 +6,7 @@
 「ヤラしーこと考えてるにおいだぞ。へへー、あとでいっぱいヤろうな？」=「You're thinking about something suspicious, right? We'll do it plenty later, right? Hehe..」
 「ヤラしーこと考えてるにおいだぞ。へへー、あとでいっぱ\n　いヤろうな？」=「You're thinking about something suspicious, right? We'll do it plenty later, right? Hehe..」
 「デート、デート♪　うー、もう待てないー」=「Date, date ♪ I can't wait!」
+「うひゃ！？　おどかすなよー、なんか用かー？」=「Hya!? Don't surprise me! Do you need something?」
 
 ; Conversation end
 「へへー、キミはいいヤツだなー。また話そうなー」=「Hehe~ you're a good guy. Let's talk again later~」
@@ -23,6 +24,7 @@
 「おー、男でも甘いの好きなんだなー。あたしも大好きだ\n　ぞー」=「Oh~ even boys like sweets~ I love them~」
 「キミは辛いの食べられるか？」=「Can you eat spicy food?」
 「うーん、そっかー。好みって難しいなー」=「Hmm.. I see.. tastes are complicated, huh..」
+「キミは女子の身長の好みってあるかー？」=「Do you have any preference with a girl's height?」
 
 ; Go home together
 『壮亮くん、おはよー。よく寝てたから先に出るぞ』=『Sosuke-kun, good morning. I slept well and I'll be leaving first.』
@@ -51,5 +53,5 @@
 
 ; Player
 「え、なんのにおい？」=「Eh? What smell?」
-「え！？　あ、アーン……」=「え！？　あ、アーン……」=「Eh!? A, aah..」
+「え！？　あ、アーン……」=「Eh!? A, aah..」
 「そ、それはズルいよ！　俺が恥ずかしいだけだよ！」=「Th- that's unfair! I was really embarassed!」

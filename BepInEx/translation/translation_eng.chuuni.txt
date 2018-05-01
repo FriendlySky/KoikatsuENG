@@ -69,6 +69,9 @@
 「わ、我なんかでよければ……もちろんであるぞ！」=「I- if you're fine with me, then of course I will!」
 「むふふ……どうだ？　モデルのような体型であろう？」=「Mufufu.. How about that? Don't I have a model's figure?」
 「むふふ……どうだ？　モデルのような体型であろ\n　う？」=「Mufufu.. How about that? Don't I have a model's figure?」
+「甘い物はどうなのだ？　食べるの好きか？」=「What do you think of sweet food? Do you like eating them?」
+「糖分は、魔力の源になるのである。今度一緒に、パンケーキを食べに行きたいぞ！」=「Sugar is a source of power. Next time, let's go eat pancakes!」
+「糖分は、魔力の源になるのである。今度一緒に、パン\n　ケーキを食べに行きたいぞ！」=「Sugar is a source of power. Next time, let's go eat pancakes!」
 
 ; Go home together
 「い、一緒に帰る？　我らが……」=「Go home t- together? Us..?」

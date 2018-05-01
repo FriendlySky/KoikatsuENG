@@ -4,6 +4,7 @@
 「よし、今日も積極的に行こう！」=「Alright, let's make progress today!」
 「んーっ、よく寝た。……あれ？　メモがある。なになに――」=「Nh.. I slept a lot.. Hm? There's a memo..」
 「んーっ、よく寝た。……あれ？　メモがある。なになに―\n　―」=「Nh.. I slept a lot.. Hm? There's a memo..」
+「さてと、今日もコイカツしちゃいますか！」=「Well then, time to do plenty of club activities today too!」
 
 ;; Small talk
 「音楽は聞く方？」=「What kind of music do you listen to?」
@@ -18,6 +19,7 @@
 「お前を抱きたいんだ……鈴音」=「I want to embrace you, Suzune..」
 「キスしたいなー、とかない？」=「I wanna kiss~ what do you think?」
 「そういえば、今日学園でさあ……」=「That reminds me, today at school..」
+「そういえば、小耳にはさんだんだけど……」=「By the way, I happened to hear that..」
 「男と付き合うのとかって興味ある？」=「Are you interested in going out with a boy?」
 「きみって以外に面倒見いいよね？」=「Do you think caring for someone else is bothersome?」
 「もし、俺が付き合いたいっていったら。ど、どうする？」=「If I asked you out, w- what would you do?」
@@ -64,9 +66,11 @@
 新しい服選び=I wear new clothes
 普段は制服だし…=My uniform usually..
 そうだね=That's right
+そうでもないよ=That's wrong
 食べない=I wouldn't eat
 食べる=I'd eat
 食べれる=I can eat
+好き=I like it
 苦手=I'm weak at it
 得意=I'm good at it
 やっぱり？=I know, right?
@@ -78,6 +82,16 @@
 平気=All good
 飲める=I drink it
 飲めない=I don't drink it
+苦手な方=I'm weak
+好きな方=I like it
+つい食べちゃう=I'd eat right now
+あんまり食べない=I don't eat much
+作るよ=I cook for myself
+ちょっと苦手で…=I'm not very good..
+気にする方=I take care
+興味がなぁ…=I don't care..
+加糖派=Sweet side
+ブラック派=Black side
 
 ;; Unsorted
 「……良い事思いついた」=「..That's a good idea..」
