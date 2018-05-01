@@ -3,6 +3,7 @@ English translation for Koikatsu. This is a solo project and I translate as I ad
 
 ## Requirements
 Latest version of [BepInEx](https://github.com/bbepis/BepInEx/releases)
+Play as 柏木 壮亮 (base boy). Some strings include the protagonist's name and won't work if your name is different than the one I used in my playthrough. BepInEx currently doesn't support string detection with any name for now so it's pretty limited.
 
 ## How to install
 Download the latest [release](https://github.com/FriendlySky/KoikatsuENG/releases), merge the BepInEx folder with your installation's.
