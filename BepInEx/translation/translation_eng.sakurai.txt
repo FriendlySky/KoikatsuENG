@@ -1,6 +1,6 @@
 ; Cutscene 1
 「ふふっ、こういうのって……何だか新鮮ね」=「Fufu~ this is.. somewhat fresh.」
-「え？」=「え？」
+「え？」=「Eh？」
 「ほら、この学園って女の子ばかりでしょう？　だからきみくらいの年頃の男の子と会話するのって初めてで……」=「You know, there are only girls in this school. So it's my first time talking to a boy of your age..」
 「ほら、この学園って女の子ばかりでしょう？　だからきみ\n　くらいの年頃の男の子と会話するのって初めてで……」=「You know, there are only girls in this school. So it's my first time talking to a boy of your age..」
 「きみも手探りだと思うけど、同じくらい私も手探りなの。だから……一緒に頑張りましょうね」=「You may have trouble talking to them, but I'll also mess up while talking to you. So.. let's do our best together~」
