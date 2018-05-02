@@ -6,9 +6,14 @@
 「うふふ♡　お話しませんか？」=「Uhufu♡ Would you like to talk?」
 「お話の後でいいので、私のことを抱いてくれませんか？　もちろん、そっちの意味ですよ♡」=「After we're done talking, could you embrace me? Of course, I mean it that way ♡」
 「お話の後でいいので、私のことを抱いてくれませんか？　\n　もちろん、そっちの意味ですよ♡」=「After we're done talking, could you embrace me? Of course, I mean it that way ♡」
+「だ～れだ？　って……してくれないんですか？」=「Who is it~? ..were you not doing that?」
 
 ; Perversion talk answers
 「ごめんなさい……それ、私です♡　あなたが通るの知って\n　て、聞かせたくて♡」=「I'm sorry.. that was me ♡ I know you usually go this way so I wanted you to hear me ♡」
+「きっと、あなたが産声をあげた時から……♡」=「Ever since you were born.. ♡」
+「はい♡　身勝手なんてレベルじゃなくて、もっと人形かオモチャみたいに扱ってください♡」=「Yes ♡　Please treat me like a doll or a toy rather than just being selfish ♡」
+「はい♡　身勝手なんてレベルじゃなくて、もっと人形かオ\n　モチャみたいに扱ってください♡」=「Yes ♡　Please treat me like a doll or a toy rather than just being selfish ♡」
+「ごめんなさい♡　お股がムズムズして、それどころじゃな\n　くて♡」=「Sorry, I feel excited, so don't say so much ♡」
 
 ; Unsorted
 「もちろん！　そういえば、初めて会った頃はずっと眠そうだったけど、今はそんなことないよね」=「Of course! Thinking about it, when we first met you were always sleepy, but now you look fine!」
@@ -26,3 +31,7 @@
 
 ; Player
 「これ、言っていいのかな。この前、校舎裏でエッチな声が\n　聞こえて……」=「I heard a perverted voice behind the school building earlier.. Have you heard it?」
+「いつぐらいからエッチなこととか興味持つようになった？」=「How long have you been interested in perverted things?」
+「いつぐらいからエッチなこととか興味持つようになっ\n　た？」=「How long have you been interested in perverted things?」
+「俺が身勝手なエッチをする男だったらイヤ？」=「Would you dislike it if I wanted to do dirty things with you selfishly?」
+「エッチなこと聞かれるイヤ？」=「Do you dislike hearing perverted things?」

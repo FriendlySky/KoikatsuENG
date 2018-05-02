@@ -119,6 +119,7 @@
 「お疲れである！　同胞よ！　またコイカツやろう\n　ぞ？」=「Thank you for today, comrade! Let's do it again another time!」
 
 ; Lunch
+「昼飯～……行こう！　行こう！」=「Lunch~ Let's go, let's go!」
 「昼飯タイムなのだ……一緒に食べようぞー……」=「It's time for lunch~ let's go together~」
 「彼氏と食べる昼飯はうまいのだぁ～……」=「Lunch with my boyfriend is delicious~」
 「今日は、向かい合わせじゃなく隣に座るのだ」=「For today, we're not sitting face to face. We're sitting next to each other~」
@@ -170,3 +171,9 @@
 「後ろから……いいよ」=「From behind.. alright.」
 「ちょ、ちょっとだけ。じっとしてて……」=「J- just a little bit. Be still..」
 「ご、ごめん……つい、男の生理現象が……」=「S- sorry, it's just.. a male physiological phenomenon..」
+「今度、俺の家で泊まりで晩御飯食べよう」=「Next time, you should stay at my place so we can have dinner.」
+「なあ鈴音、好きだよ」=「Hey Suzune, I like you.」
+「お前を抱きたいんだ……鈴音」=「I want to embrace you, Suzune..」
+「教えて欲しいんだけど……。鈴音の一番敏感なとこは？」=「Suzune, I wanted to know.. what's your most sensitive place?」
+「教えて欲しいんだけど……。鈴音の一番敏感なとこ\n　は？」=「Suzune, I wanted to know.. what's your most sensitive place?」
+「二人で居る時、たまに変な気持ちになるんだけど……」=「Sometimes, when we're together, I get this weird feeling..」
