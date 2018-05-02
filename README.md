@@ -14,6 +14,9 @@ English and Japanese aren't my native languages so there may be grammar or trans
 ### Sakurai
 - Event 1
 
+### Minase
+- Event 1
+
 ### Personalities 
 - Cursed eye (partial)
 - Wild (partial)
