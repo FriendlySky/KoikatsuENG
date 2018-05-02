@@ -1,6 +1,6 @@
 ; Cutscene 1
 「ふふっ、こういうのって……何だか新鮮ね」=「Fufu~ this is.. somewhat fresh.」
-「え？」=「え？」
+「え？」=「Eh？」
 「ほら、この学園って女の子ばかりでしょう？　だからきみくらいの年頃の男の子と会話するのって初めてで……」=「You know, there are only girls in this school. So it's my first time talking to a boy of your age..」
 「ほら、この学園って女の子ばかりでしょう？　だからきみ\n　くらいの年頃の男の子と会話するのって初めてで……」=「You know, there are only girls in this school. So it's my first time talking to a boy of your age..」
 「きみも手探りだと思うけど、同じくらい私も手探りなの。だから……一緒に頑張りましょうね」=「You may have trouble talking to them, but I'll also mess up while talking to you. So.. let's do our best together~」
@@ -18,3 +18,10 @@
 「もうお昼は終わった？　先生はこれからなの」=「Are you done having lunch? I'll be starting soon~」
 「ふふっ、今日の星占いね、先生、一位だったの」=「Fufu~ For today's horoscope, I'm number one~」
 「先生はいつでもきみの味方よ」=「I'll always be on your side~」
+「きみを見てると、私も頑張らなきゃって気になるの。本当よ？」=「When you're watching me, I have to make sure I'm doing my best. Really!」
+「きみを見てると、私も頑張らなきゃって気になるの。本当\n　よ？」=「When you're watching me, I have to make sure I'm doing my best. Really!」
+「やっぱり男の子って元気なのね。声の大きさも女の子とはまるで違うわ」=「As expected, boys are lively, huh? You also sound completely different compared to girls~」
+「やっぱり男の子って元気なのね。声の大きさも女の子とは\n　まるで違うわ」=「As expected, boys are lively, huh? You also sound completely different compared to girls~」
+「きみが来てから、みんなそわそわしてるみたい。ふ\n　ふっ、こういうのって青春っぽくていいわね♪」=「Ever since you came, everyone looks nervous. Fufu, youth like this is nice, isn't it ♪」
+「きみには難しい部活を任せちゃって……本当は担任としても心苦しいのよ。もしも悩んだ時には気軽に相談して\n　ね」=「You have a difficult club job ahead of you.. as your homeroom teacher I feel sorry. If anything is troubling you, you can always consult me~」
+「きみには難しい部活を任せちゃって……本当は担任として\n　も心苦しいのよ。もしも悩んだ時には気軽に相談して\n　ね」=「You have a difficult club job ahead of you.. as your homeroom teacher I feel sorry. If anything is troubling you, you can always consult me~」
