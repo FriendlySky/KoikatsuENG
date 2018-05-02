@@ -16,11 +16,11 @@
 「ぬがっ！　び、びっくりするではないか！？　もう…\n　…」=「Ngaah! Y- you surprised me.. jeez..」
 
 ; Conversation end
-「今日は楽しかったぞ！　人間界に降りてきてよかった」=「I had fun today! I'm glad to have descended the human world!」
-「ううぅ～……最近、汝と居ると時が経つのが早いぞ……」=「Uuh~ ..Lately, it feels like time with you passes quicker..」
-「ううぅ～……最近、汝と居ると時が経つのが早いぞ…\n　…」=「Uuh~ ..Lately, it feels like time with you passes quicker..」
-「汝との会話は楽しくて止まらぬな……時間がすぐ過ぎる」=「Talking with you is so fun, I wish time stopped.. time passes by too quickly..」
-「汝との会話は楽しくて止まらぬな……時間がすぐ過ぎ\n　る」=「Talking with you is so fun, I wish time stopped.. time passes by too quickly..」
+「今日は楽しかったぞ！　人間界に降りてきてよかった」=「I had fun today! I'm glad to have descended to the human world!」
+「ううぅ～……最近、汝と居ると時が経つのが早いぞ……」=「Uuh~ ..Lately, it feels like time with you passes quickly..」
+「ううぅ～……最近、汝と居ると時が経つのが早いぞ…\n　…」=「Uuh~ ..Lately, it feels like time with you passes quickly..」
+「汝との会話は楽しくて止まらぬな……時間がすぐ過ぎる」=「Talking with you is so fun, I wish time would stop.. time passes by too quickly..」
+「汝との会話は楽しくて止まらぬな……時間がすぐ過ぎ\n　る」=「Talking with you is so fun, I wish time would stop.. time passes by too quickly..」
 
 ; Small talk answers
 「ふむ、何か他の話題はないのか？」=「Hmm. Don't you want to talk about something else?」
@@ -55,7 +55,7 @@
 「た、たくさんありすぎて……汝が試せ……」=「There are a lot of places.. you can try..」
 
 ; Questions
-「汝、我の体型はタイプか？」=「What do you think of my figure? Is it your type?」
+「汝、我の体型はタイプか？」=「What do you think of my figure? Am I your type?」
 「汝はその……一人でするのか？」=「Do you.. do it when you're alone?」
 「そうであろうか？　汝から見るとそう見えるのか……」=「Do you think so? Do I look that way..?」
 「そ、そうか……そうだな。いつも我が傍にいるから必要ない！」=「I- I see.. I'll need to stay close to you then!」
@@ -65,13 +65,13 @@
 「ふぇぇっ！　エロいぞ……興奮する……」=「Eeeh! That's erotic.. I'm excited..」
 「私の身長……どう思う？　好きか？」=「What do you think.. of my height? Do you like it?」
 「何を照れておるのだ！　聞いてるこっちも恥ずかしいのだ\n　ぞ！」=「Why are you embarassed!? I'm also embarassed..」
-「これからも俺についてきてくれる？」=「Will you keep accompanying me?」
+「これからも俺についてきてくれる？」=「Will you keep me company?」
 「わ、我なんかでよければ……もちろんであるぞ！」=「I- if you're fine with me, then of course I will!」
 「むふふ……どうだ？　モデルのような体型であろう？」=「Mufufu.. How about that? Don't I have a model's figure?」
 「むふふ……どうだ？　モデルのような体型であろ\n　う？」=「Mufufu.. How about that? Don't I have a model's figure?」
-「甘い物はどうなのだ？　食べるの好きか？」=「What do you think of sweet food? Do you like eating them?」
-「糖分は、魔力の源になるのである。今度一緒に、パンケーキを食べに行きたいぞ！」=「Sugar is a source of power. Next time, let's go eat pancakes!」
-「糖分は、魔力の源になるのである。今度一緒に、パン\n　ケーキを食べに行きたいぞ！」=「Sugar is a source of power. Next time, let's go eat pancakes!」
+「甘い物はどうなのだ？　食べるの好きか？」=「What do you think of sweet food? Do you like it?」
+「糖分は、魔力の源になるのである。今度一緒に、パンケーキを食べに行きたいぞ！」=「Sugar is a source of energy. Next time, let's go eat pancakes!」
+「糖分は、魔力の源になるのである。今度一緒に、パン\n　ケーキを食べに行きたいぞ！」=「Sugar is a source of energy. Next time, let's go eat pancakes!」
 
 ; Go home together
 「い、一緒に帰る？　我らが……」=「Go home t- together? Us..?」
@@ -87,7 +87,7 @@
 「ここが、汝の居城か……なかなか小綺麗にしておるではな\n　いか」=「So this is your domain.. it's quite tidy, huh?」
 「ふぅ……はてさて、どうしたものか。我の心臓がかなり踊っておるぞ」=「Haa.. well then, what to do now. My heart is dancing..」
 「ふぅ……はてさて、どうしたものか。我の心臓がかなり\n　踊っておるぞ」=「Haa.. well then, what to do now. My heart is dancing..」
-「汝はしたくてたまらなかったのか？　実は我も……」=「Don't you feel like unbearable desire to do it? To be honest, I do too..」
+「汝はしたくてたまらなかったのか？　実は我も……」=「Don't you feel an unbearable desire to do it? To be honest, I do too..」
 「汝の魔物から熱を帯びた魔力が伝わるぞ」=「I can feel the demonic power circulating within you!」
 「も、もっとくっついていたいなって……」=「I want to h- hug you more..」
 『眠ってたから、起こさないで先に学園いってくる！』=『You were still sleeping, so I'll be leaving first for school!」
@@ -101,7 +101,7 @@
 「そうか！　それでは、楽しみに待ってるぞ！」=「I see! Well then, I'm looking forward to it!」
 
 ; Club activities
-「汝！　コイカツをするぞ……さあさあ……」=「Let's do club activities, come on, come on..!」
+「汝！　コイカツをするぞ……さあさあ……」=「Let's do some club activities, come on, come on..!」
 「部活でも一緒だな……これはラブラブというやつかのう……」=「Club activities together.. getting lovey-dovey..」
 「部活でも一緒だな……これはラブラブというやつかのう…\n　…」=「Club activities together.. getting lovey-dovey..」
 「わ、我は今日、やってもらいたいことがあるのだ……」=「T- today, there's something I want to do..」
@@ -115,15 +115,15 @@
 「コイカツで、男性という生き物をもっと知りたい……」=「So, I'd like to know more about men..」
 「い、いや、汝のこと……きょ、興味あるのだ」=「N- no.. about you.. I'm interested..」
 「……次のコイカツはいつするのだ？」=「..When will we do club activities again?」
-「お疲れである！　同胞よ！　またコイカツやろうぞ？」=「Thank you for today, my comrade! Let's do it again another time!」
-「お疲れである！　同胞よ！　またコイカツやろう\n　ぞ？」=「Thank you for today, my comrade! Let's do it again another time!」
+「お疲れである！　同胞よ！　またコイカツやろうぞ？」=「Thank you for today, comrade! Let's do it again another time!」
+「お疲れである！　同胞よ！　またコイカツやろう\n　ぞ？」=「Thank you for today, comrade! Let's do it again another time!」
 
 ; Lunch
 「昼飯タイムなのだ……一緒に食べようぞー……」=「It's time for lunch~ let's go together~」
 「彼氏と食べる昼飯はうまいのだぁ～……」=「Lunch with my boyfriend is delicious~」
 「今日は、向かい合わせじゃなく隣に座るのだ」=「For today, we're not sitting face to face. We're sitting next to each other~」
-「一緒にお昼は最高であるぞ！　お腹も心も満たされて幸せである」=「Having lunch together is the best! Both my stomach and heart are full. This is happniess!」
-「一緒にお昼は最高であるぞ！　お腹も心も満たされて幸せ\n　である」=「Having lunch together is the best! Both my stomach and heart are full. This is happniess!」
+「一緒にお昼は最高であるぞ！　お腹も心も満たされて幸せである」=「Having lunch together is the best! Both my stomach and heart are full. This is happiness!」
+「一緒にお昼は最高であるぞ！　お腹も心も満たされて幸せ\n　である」=「Having lunch together is the best! Both my stomach and heart are full. This is happiness!」
 「汝、我と一緒に昼飯はどうだ？」=「Would you like to have lunch with me?」
 「よし！　楽しみであるな！　ふんふん！」=「Alright! This will be fun! Hm, hmm!」
 「ふぅー、満腹すぎて眠くなりそうであるな……」=「Fuu~ I'm full, and now I'm getting sleepy..」
