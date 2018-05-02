@@ -26,6 +26,8 @@
 「俺と付き合ってくれたのって……何か理由がある\n　の？」=「You're going out with me.. Is there a reason for it?」
 「……今日の授業、ずっと千紗のこと考えていた気がする」=「..I thought about you during the entirety of the lesson.」
 「……今日の授業、ずっと千紗のこと考えていた気がす\n　る」=「..I thought about you during the entirety of the lesson.」
+「教えて欲しいんだけど……。鈴音の一番敏感なとこは？」=「Suzune, I wanted to know.. what's your most sensitive spot?」
+「教えて欲しいんだけど……。鈴音の一番敏感なとこ\n　は？」=「Suzune, I wanted to know.. what's your most sensitive spot?」
 「二人の間で、どうしてもこれだけは許せないことってあ　る？」=「Between us two, what is the one thing you wouldn't allow no matter what?」
 
 ;; Perversion talk
@@ -34,12 +36,12 @@
 「女子でも……ムラムラすることある？」=「Do girls.. also get turned on?」
 
 ;; Join club
-「コイカツ部に興味ない？　よかったら入ってほしいな」=「Are you interested by the Koikatsu club? If you'd like, you can join us.」
+「コイカツ部に興味ない？　よかったら入ってほしいな」=「Are you interested in the Koikatsu club? If you'd like, you can join us.」
 
 ;; Answers
 痩せているのが=I like lean figures
 小さいのが=I like small figures
-程よいのが=I like normal figures
+程よいのが=I like average figures
 高いのが=I like tall figures
 ぽっちゃりしているのが=I like chubby figures
 してない=I am not
@@ -66,7 +68,7 @@
 得意=I'm good at it
 やっぱり？=I know, right?
 そうかなぁ…=I'm not sure..
-するよりキミとシたい=I want to do it with you at night
+するよりキミとシたい=I want to do it with you tonight
 目の前にいいオカズが…=In front of you is a bonus..
 わかってきた=I get you
 まだまだわからない=I still don't understand
