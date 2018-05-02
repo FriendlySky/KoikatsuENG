@@ -18,3 +18,10 @@
 「もうお昼は終わった？　先生はこれからなの」=「Are you done having lunch? I'll be starting soon~」
 「ふふっ、今日の星占いね、先生、一位だったの」=「Fufu~ For today's horoscope, I'm number one~」
 「先生はいつでもきみの味方よ」=「I'll always be on your side~」
+「きみを見てると、私も頑張らなきゃって気になるの。本当よ？」=「When you're watching me, I have to make sure I'm doing my best. Really!」
+「きみを見てると、私も頑張らなきゃって気になるの。本当\n　よ？」=「When you're watching me, I have to make sure I'm doing my best. Really!」
+「やっぱり男の子って元気なのね。声の大きさも女の子とはまるで違うわ」=「As expected, boys are lively, huh? You also sound completely different compared to girls~」
+「やっぱり男の子って元気なのね。声の大きさも女の子とは\n　まるで違うわ」=「As expected, boys are lively, huh? You also sound completely different compared to girls~」
+「きみが来てから、みんなそわそわしてるみたい。ふ\n　ふっ、こういうのって青春っぽくていいわね♪」=「Ever since you came, everyone looks nervous. Fufu, youth like this is nice, isn't it ♪」
+「きみには難しい部活を任せちゃって……本当は担任としても心苦しいのよ。もしも悩んだ時には気軽に相談して\n　ね」=「You have a difficult club job ahead of you.. as your homeroom teacher I feel sorry. If anything is troubling you, you can always consult me~」
+「きみには難しい部活を任せちゃって……本当は担任として\n　も心苦しいのよ。もしも悩んだ時には気軽に相談して\n　ね」=「You have a difficult club job ahead of you.. as your homeroom teacher I feel sorry. If anything is troubling you, you can always consult me~」

@@ -1,6 +1,7 @@
 ; Menu
 タイトル=Title
 ゲーム終了=Quit game
+戻る=Return
 ロードデータを選択して下さい=Select save data to load
 セーブデータを選択して下さい=Select save data
 セーブしました=Game saved.
@@ -288,16 +289,21 @@ Hしたい=Do H
 知力=Intelligence
 体力=Power
 Ｈ力=H power
+選択肢=Choice
 
 ; Names
 壮亮=Sosuke
 柏木 壮亮=Kashiwagi Sosuke
 リナ ロベール=Lina Robert
+柊 このみ=Hiiragi Konomi
+櫻井 野乃花=Sakurai Nonoka
+麗奈=Reina
 亜依=Ai
 野乃花=Nonoka
 凛花=Rika
 葵=Aoi
 千紗=Chisa
+紅葉=Iroha
 有紗=Yusa
 裕子=Yuko
 杏理=Anri

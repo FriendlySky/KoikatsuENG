@@ -6,9 +6,11 @@
 「っ！　……あっ……なにか、用？」=「Oh! ..ah.. do you need something?」
 「昼食……あなたは、何で済ますの？」=「Lunch.. what are you going to have?」
 「……来ると、思ってた……ずっと見てたから」=「..I thought you'd come.. I've been watching you the whole time.」
+「……男性の性感帯って、どこなの？」=「..What's a boy's eronegous zone?」
 
 ; Conversation end
 「じゃあ……また、お話……聞かせて？」=「Well.. Let's talk.. another time?」
+「……終わり？　……そう。じゃあまた、ね？」=「..It's over? ..I see. See you next time..?」
 
 ; Love talk answers
 「フフ……壮亮の想像に任せるよ？」=「Fufu.. I'll leave that to your imagination..」
@@ -19,6 +21,12 @@
 「……ごめん。そういうのは、あまり興味ないから」=「..Sorry, I'm not really interested in that kind of thing.」
 「……知らなかった……進んでるんだね」=「..I didn't know. They're making progress, huh.」
 「……無い。断るときとか、疲れるし」=「..No. I'd reject them. It's tiresome.」
+「……うん、あるよ。でもそれは、壮亮にだけ……だから」=「..Yeah, I have. However, only with you, so..」
+「……うん、あるよ。でもそれは、壮亮にだけ……だか\n　ら」=「..Yeah, I have. However, only with you, so..」
+
+; Date
+「……あの、今度の休日……二人で、その……」=「..Um, next day off.. together, well..」
+「……！　うんっ、楽しみだね」=「..! Yeah, I'm looking forward to it!」
 
 ; Lunch
 「……よかったら一緒に昼ご飯……食べない？」=「..Would you like to have lunch.. together..?」
@@ -29,6 +37,10 @@
 「……少しお金を使い過ぎました」=「..I spent a bit too much money.」
 「……ご馳走さま。じゃあ、また……」=「..Thank you for the food. Well, see you next time..」
 
+; Confession
+「……私、あなたのことが……好き」=「..I.. love you.」
+「……！　そ、そう。じゃあ……これからも、よろしく」=「..! I, I see.. then.. please treat me well.」
+
 ; H request
 「……私、壮亮と……エッチ、したいかも」=「..I want.. to do dirty things with you..」
 「……よかった。こういうの、どう言っていいか……わからないから」=「..I'm glad. I'm not sure how to put it..」
@@ -37,6 +49,9 @@
 「……なんだか、大胆。でも、いつもより興奮して……すご\n　く気持ちよかった」=「..Somehow, you were really bold. But, I was more excited than usual.. It felt really good..」
 
 ; Player
-「恋愛してみたいとか、思ったことある？」=「Did you ever think about love?」
+「恋愛してみたいとか、思ったことある？」=「Do you ever think about love?」
 「理想の結婚生活ってある？」=「What is your ideal married life?」
 「誰かに告白されたいとか、思ったことある？」=「Have you ever wanted to be confessed to?」
+「運命の出会いとか、憧れてたりする？」=「Do you follow your destiny or long for one?」
+「そういえば、小耳にはさんだんだけど……」=「By the way, I happened to hear that..」
+「キスとか、したいと思ったことある？」=「Have you ever wanted to kiss and do other things?」

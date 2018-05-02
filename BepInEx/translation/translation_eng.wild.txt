@@ -7,9 +7,12 @@
 「ヤラしーこと考えてるにおいだぞ。へへー、あとでいっぱ\n　いヤろうな？」=「You're thinking about something suspicious, right? We'll do it plenty later, right? Hehe..」
 「デート、デート♪　うー、もう待てないー」=「Date, date ♪ I can't wait!」
 「うひゃ！？　おどかすなよー、なんか用かー？」=「Hya!? Don't surprise me! Do you need something?」
+「コトバだけじゃわかんないこともあるだろー？　そうだろー？」=「There are things you can't describe with just words, right?」
+「コトバだけじゃわかんないこともあるだろー？　そうだ\n　ろー？」=「There are things you can't describe with just words, right?」
 
 ; Conversation end
 「へへー、キミはいいヤツだなー。また話そうなー」=「Hehe~ you're a good guy. Let's talk again later~」
+「キミと離れたくないなー。首輪つけちゃいたいぞー」=I don't want to leave you~ I want to put a collar on you~」
 
 ; Love talk
 「あー、あたしも見たことあるなー。危ない関係ってヤツ？」=「Ah! I saw them too. It's a risky relationship, huh?」
@@ -17,6 +20,11 @@
 「おぉっ？　そりゃまー、好きな相手だったらなー」=「Ooh? That's.. well.. if it's with someone you like..」
 「うひゃー、恥ずかしいこと聞くなー。さすがにそれはないぞー」=「Hya, that's embarassing to hear.. Of course not..!」
 「うひゃー、恥ずかしいこと聞くなー。さすがにそれはない\n　ぞー」=「Hya, that's embarassing to hear.. Of course not..!」
+「ちょっと話しにくいなー、他になんかないか？」=「That's a bit hard to talk about~ what about something else?」
+「うーん？　もしかしたら、もっといい男が……なんて\n　なー」=「Hmm? Well, if he's a good person then.. maybe..」
+「へへー、あたしも好きー♪　もっともっと言って\n　なー？」=「Hehe~ I love you too ♪ Say it again~」
+「ホントは嫌いだぞー、って冗談♪　あはは、キミのその顔、可愛いなー」=「I actually really hate you~ I'm kidding ♪ Hehe, your face is so cute~」
+「ホントは嫌いだぞー、って冗談♪　あはは、キミのその\n　顔、可愛いなー」=「I actually really hate you~ I'm kidding ♪ Hehe, your face is so cute~」
 
 ; Questions
 「キミは甘いの好きかー？」=「Do you like sweets?」
@@ -44,14 +52,50 @@
 「ハラいっぱいだぞー。午後、居眠りしなように気をつけないとなー」=「I'm full~ I'll have to be careful not to doze off this afternoon~」
 「ハラいっぱいだぞー。午後、居眠りしなように気をつけな\n　いとなー」=「I'm full~ I'll have to be careful not to doze off this afternoon~」
 
+; Confession
+「なー、あたしとキミ、友達やめて恋人にならないか？」=「Hey~ what about you and I stop being friends and become lovers instead?」
+「なー、あたしとキミ、友達やめて恋人にならない\n　か？」=「Hey~ what about you and I stop being friends and become lovers instead?」
+「うっきゃー♪　ホントにいいんだな！？　やったー！」=「Kyaa♪　That's really okay!? Yay~!」
+「うっきゃー♪　ホントにいいんだな！？　やっ\n　たー！」=「Kyaa♪　That's really okay!? Yay~!」
+
+; Go home together
+「いいぞー。へへー、男子と下校なんて初めてだぞ」=「All right. Hehe~ It's my first time going home with a boy~」
+「うん！　よしっ、それじゃあ早速帰ろう～！」=「Yeah! All right, let's go quickly!」
+「この街にはもう慣れたのか？　よかったらキミを色んなとこに案内したいなー」=「Have you gotten used to this town already? Would you like me to show you around?」
+「この街にはもう慣れたのか？　よかったらキミを色んなと\n　こに案内したいなー」=「Have you gotten used to this town already? Would you like me to show you around?」
+「ぜーんぜん、むしろここからが本番！　だろー？」=「Not at all, in fact I feel better now! Right?」
+「もうここまで来ちゃったぞ……寂しいけど、また今度だ\n　な」=「It's already time to go, huh.. I feel lonely, but see you next time!」
+「時間あるある！　あたしもまだキミと離れたくないぞ！」=「I have the time! I don't want to leave you just yet!」
+「時間あるある！　あたしもまだキミと離れたくない\n　ぞ！」=「I have the time! I don't want to leave you just yet!」
+「お邪魔するぞー。へー、ここがキミの部屋なんだー」=「Sorry for intruding~ Eh~ so this is your home, huh..」
+「男子の部屋に入るの、初めてだぞ……何か、そわそわしちゃうなー」=「It's my first time entering a boy's room, so.. somehow, I'm really nervous..」
+「男子の部屋に入るの、初めてだぞ……何か、そわそわし\n　ちゃうなー」=「It's my first time entering a boy's room, so.. somehow, I'm really nervous..」
+「それで、もちろん……ヤるんだよな？　へへ、興奮してきたぞ」=「Well, of course.. you want to do it? Hehe, you look so excited~」
+「それで、もちろん……ヤるんだよな？　へへ、興奮してき\n　たぞ」=「Well, of course.. you want to do it? Hehe, you look so excited~」
+
 ; H request
 「こっちから誘おうと思ってたぞー。はやくヤろー！」=「I was thinking of asking you. Let's do it, quickly!」
 「こっちから誘おうと思ってたぞー。はやくヤ\n　ろー！」=「I was thinking of asking you. Let's do it, quickly!」
 「キミとエッチすると、色んなとこ責めたくなるぞ」=「When we're doing dirty things, I always want to do more!」
 「キミも、もっと好きにしていいんだぞ？　２人でもっと気持ちよくなろうな」=「What about you? We'll feel even better!」
 「キミも、もっと好きにしていいんだぞ？　２人でもっと気\n　持ちよくなろうな」=「What about you? We'll feel even better!」
+「緊張したけど……初めてがキミでよかったぞ」=「I was nervous but I'm glad that I gave you my first time..」
 
 ; Player
 「え、なんのにおい？」=「Eh? What smell?」
 「え！？　あ、アーン……」=「Eh!? A, aah..」
 「そ、それはズルいよ！　俺が恥ずかしいだけだよ！」=「Th- that's unfair! I was really embarassed!」
+「いつか結婚したい、とか思う？」=「Do you want to get married someday?」
+「キスしたいなー、とかない？」=「I wanna kiss~ what about you?」
+「白馬の王子様、とかに憧れる？」=「Do you dream about a knight on a white horse and things like that?」
+「白馬の王子様、とかに憧れる？」=「Do you dream about a knight on a white horse and things like that?」
+「いまの彼氏と結婚できる？」=「Would you marry your boyfriend?」
+「好きだよ、裕子」=「I love you, Yuko.」
+「俺のこと、本当に好き？」=「Do you really like me?」
+「よかったら、一緒に帰らない？」=「Would you like to go home together?」
+「そうなんだ」=「Is that so.」
+「ありがとう。でも、学園帰りで疲れてない？」=「Thanks, but aren't you tired from school?」
+「そうだね。また今度」=「That's right. See you next time!」
+「……時間あるなら、家に来ない？」=「..If you have the time, won't you come to my home?」
+「……時間あるなら、家に来ない？　裕子ともっと一緒にいたいんだ」=「..If you have the time, won't you come to my home? I want to be with you.」
+「……時間あるなら、家に来ない？　裕子ともっと一緒にい\n　たいんだ」=「..If you have the time, won't you come to my home? I want to be with you.」
