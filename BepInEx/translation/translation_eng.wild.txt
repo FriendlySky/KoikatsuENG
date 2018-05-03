@@ -98,4 +98,4 @@
 「そうだね。また今度」=「That's right. See you next time!」
 「……時間あるなら、家に来ない？」=「..If you have the time, won't you come to my home?」
 「……時間あるなら、家に来ない？　裕子ともっと一緒にいたいんだ」=「..If you have the time, won't you come to my home? I want to be with you.」
-「……時間あるなら、家に来ない？　裕子ともっと一緒にい\n　たいんだ」=「..If you have the time, won't you come to my home? I want to be with you.」ght
+「……時間あるなら、家に来ない？　裕子ともっと一緒にい\n　たいんだ」=「..If you have the time, won't you come to my home? I want to be with you.」
