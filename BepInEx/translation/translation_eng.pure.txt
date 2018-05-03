@@ -5,13 +5,13 @@
 「私に用だったのかなぁ？」=「Do you need something?」
 
 ; Questions
-「最近、あなたのことが分かってきた気がするのだけれど、あなたはどうかな？」=「Lately, it feels like I got to know you better. What about you?」
-「最近、あなたのことが分かってきた気がするのだけれ\n　ど、あなたはどうかな？」=「Lately, it feels like I got to know you better. What about you?」
+「最近、あなたのことが分かってきた気がするのだけれど、あなたはどうかな？」=「Lately, it feels like I've gotten to know you better. What about you?」
+「最近、あなたのことが分かってきた気がするのだけれ\n　ど、あなたはどうかな？」=「Lately, it feels like I've gotten to know you better. What about you?」
 「えへへっ♪　あなたもなんだぁ。だったら以心伝心になる日もそう遠くないね！」=「Ehehe♪ You too, huh? Maybe the day we'll be able to communicate by telepathy isn't that far!」
 「えへへっ♪　あなたもなんだぁ。だったら以心伝心になる\n　日もそう遠くないね！」=「Ehehe♪ You too, huh? Maybe the day we'll be able to communicate by telepathy isn't that far!」
 「辛いのって平気？　お料理の話なんだけど」=「Are you okay with spicy food? We're talking about food, so..」
-「私もピリピリして痛いのはダメかな。ちなみに私は、プチ甘党なんだよ♪」=「Me too. I don't like that burning and painful feeling. By the way, I prefer sweets ♪」
-「私もピリピリして痛いのはダメかな。ちなみに私は、プチ\n　甘党なんだよ♪」=「Me too. I don't like that burning and painful feeling. By the way, I prefer sweets ♪」
+「私もピリピリして痛いのはダメかな。ちなみに私は、プチ甘党なんだよ♪」=「Me too. I don't like that burning and painful sensation. By the way, I prefer sweets ♪」
+「私もピリピリして痛いのはダメかな。ちなみに私は、プチ\n　甘党なんだよ♪」=「Me too. I don't like that burning and painful sensation. By the way, I prefer sweets ♪」
 「コーヒーのブラックは飲める?」=「Do you drink your coffee black?」
 「だよね。お砂糖入れなきゃ、飲めないよ」=「I know, right? If there's no sugar, I can't drink it.」
 「ねぇねぇ、女の子の身長で好みはあるのかなぁ？」=「Hey, hey. What's your preference when it comes to height?」
