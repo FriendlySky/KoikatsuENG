@@ -20,7 +20,7 @@
 「エッチ、付き合ってくれてありがと」=「Thanks for.. doing dirty things with me..」
 
 ; Player
-「どんなシチュエーションで運命の人と出会いたい？」=「In what kind of situation would you like to meet your fated one?」
+「どんなシチュエーションで運命の人と出会いたい？」=「What kind of situation would you like to meet your fated one in?」
 「彼氏がほしいって思ったことはある？」=「Have you ever wanted a boyfriend?」
 「結婚したら、どんなお母さんになりたいって思って\n　る？」=「What kind of mother would you be if you were to get married?」
 「女の子って、友達同士でも手を繋ぐけど……恋愛的な意味で好きなわけじゃないよね？」=「Girls and close friends hold hands, but.. not in a romantic sense, right?」
