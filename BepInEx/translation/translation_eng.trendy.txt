@@ -1,7 +1,7 @@
 ; Conversation start
 「なにかなー？」=「What's up?」
 「ねえ、なにかお話しよっ？」=「Hey, wanna talk about something?」
-「お腹減ってると、午前の授業って長く感じるよね」=「When I get hungry, morning classes feel so long~」
+「お腹減ってると、午前の授業って長く感じるよね」=「When I get hungry, morning classes feels so long~」
 
 ; Conversation end
 「あ……もっともっとお話ししたかったのにー。残念」=「Ah.. I really, really wanted to talk more with you, but.. that's too bad..」
@@ -21,12 +21,12 @@
 「甘い食べ物ってどう？　意外と好きだったりするのか\n　な？」=「What do you think of sweet food? I'd be surprised if you liked sweet food!」
 「うんうん、美味しいもんね。特に間食！　特に夜中！　えへへぇ」=「Hm, hmm! Sweet food is delicious! Even more so between meals! Or at night! Ehehee~」
 「うんうん、美味しいもんね。特に間食！　特に夜中！　え\n　へへぇ」=「Hm, hmm! Sweet food is delicious! Even more so between meals! Or at night! Ehehee~」
-「女の子って、みんなすごーく体型気にしてるんだけど……\n　君はどういう感じが好みかな？」=「Everyone here has a good figure, but.. which one do you like the most?」
-「女の子って、みんなすごーく体型気にしてるんだけど……\n　君はどういう感じが好みかな？」=「Everyone here has a good figure, but.. which one do you like the most?」
-「わわっ、嬉しい！　頑張って維持するからね！」=「Wawaa, I'm glad~ I'll do my best at keeping my figure as it is!」
+「女の子って、みんなすごーく体型気にしてるんだけど……\n　君はどういう感じが好みかな？」=「Everyone here has a good figure, but.. which figure do you like the most?」
+「女の子って、みんなすごーく体型気にしてるんだけど……\n　君はどういう感じが好みかな？」=「Everyone here has a good figure, but.. which figure do you like the most?」
+「わわっ、嬉しい！　頑張って維持するからね！」=「Wawaa, I'm glad~ I'll do my best to keep my figure as it is!」
 「私と君って、結構気が合うと思わない？」=「We sure get along well, what do you think?」
 「だよね！　何となく話しやすいなぁって思ってたん\n　だー」=「I know! Somehow I think that talking with you calms me down..」
-「ねぇねぇ、コーヒーってやっぱりブラック派？」=Hey hey, are you in the black coffee side?」
+「ねぇねぇ、コーヒーってやっぱりブラック派？」=Hey hey, are you on the black coffee side?」
 「そうだよね！　苦いの苦手ー！　私はミルクたっぷりめが	好きなの」=「I know, right! I don't like it bitter~ I like when there's plenty of milk~」
 「そうだよね！　苦いの苦手ー！　私はミルクたっぷりめが\n　好きなの」=「I know, right! I don't like it bitter~ I like when there's plenty of milk~」
 「君は辛い食べ物とか平気？」=「Are you fine with spicy food?」
@@ -51,8 +51,8 @@
 「あのね……私、Hしたい……かも……ダメ？」=「Hey, I.. want to do dirty things.. You don't wanna..?」
 「わぁ、良かった！　ダメって言われたらどうしようかと思っちゃった！」=「Wow, I'm glad! I don't know what I'd do if you said no!」
 「わぁ、良かった！　ダメって言われたらどうしようかと\n　思っちゃった！」=「Wow, I'm glad! I don't know what I'd do if you said no!」
-「ふふーっ、途中から私、誰かに見つからないかなー、なんて思いながらＨしちゃってたよ。そうしたら感じちゃったかも♪」=「Fufuu~ While we were doing it, I was wondering if what would happen if someone found us~ I wonder how they'd feel~」
-「ふふーっ、途中から私、誰かに見つからないかなー、なん\n　て思いながらＨしちゃってたよ。そうしたら感じ\n　ちゃったかも♪」=「Fufuu~ While we were doing it, I was wondering if what would happen if someone found us~ I wonder how they'd feel~」
+「ふふーっ、途中から私、誰かに見つからないかなー、なんて思いながらＨしちゃってたよ。そうしたら感じちゃったかも♪」=「Fufuu~ While we were doing it, I was wondering what would happen if someone found us~ I wonder how they'd feel~」
+「ふふーっ、途中から私、誰かに見つからないかなー、なん\n　て思いながらＨしちゃってたよ。そうしたら感じ\n　ちゃったかも♪」=「Fufuu~ While we were doing it, I was wondering what would happen if someone found us~ I wonder how they'd feel~」
 
 ; Player
 「好きな人との待ち合わせには早く来ちゃう方かな？」=「If you were to meet someone, you'd come earlier, right?」
