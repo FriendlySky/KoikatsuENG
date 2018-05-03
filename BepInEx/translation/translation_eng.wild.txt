@@ -23,8 +23,8 @@
 「ちょっと話しにくいなー、他になんかないか？」=「That's a bit hard to talk about~ what about something else?」
 「うーん？　もしかしたら、もっといい男が……なんて\n　なー」=「Hmm? Well, if he's a good person then.. maybe..」
 「へへー、あたしも好きー♪　もっともっと言って\n　なー？」=「Hehe~ I love you too ♪ Say it again~」
-「ホントは嫌いだぞー、って冗談♪　あはは、キミのその顔、可愛いなー」=「I actually really hate you~ I'm kidding ♪ Hehe, your face is so cute~」
-「ホントは嫌いだぞー、って冗談♪　あはは、キミのその\n　顔、可愛いなー」=「I actually really hate you~ I'm kidding ♪ Hehe, your face is so cute~」
+「ホントは嫌いだぞー、って冗談♪　あはは、キミのその顔、可愛いなー」=「Actually, I really hate you~ I'm kidding ♪ Hehe, your face is so cute~」
+「ホントは嫌いだぞー、って冗談♪　あはは、キミのその\n　顔、可愛いなー」=「Actually, I really hate you~ I'm kidding ♪ Hehe, your face is so cute~」
 
 ; Questions
 「キミは甘いの好きかー？」=「Do you like sweets?」
@@ -32,12 +32,12 @@
 「おー、男でも甘いの好きなんだなー。あたしも大好きだ\n　ぞー」=「Oh~ even boys like sweets~ I love them~」
 「キミは辛いの食べられるか？」=「Can you eat spicy food?」
 「うーん、そっかー。好みって難しいなー」=「Hmm.. I see.. tastes are complicated, huh..」
-「キミは女子の身長の好みってあるかー？」=「Do you have any preference with a girl's height?」
+「キミは女子の身長の好みってあるかー？」=「Do you have any preference for a girl's height?」
 
 ; Go home together
 『壮亮くん、おはよー。よく寝てたから先に出るぞ』=『Sosuke-kun, good morning. I slept well and I'll be leaving first.』
-『ちゃんと顔洗って、ご飯食べてこいよー。また学園で会おう！』=『Wash your face properly and eat rice. See you at the school again!』
-『ちゃんと顔洗って、ご飯食べてこいよー。また学園で会お\n　う！』=『Wash your face properly and eat rice. See you at the school again!』
+『ちゃんと顔洗って、ご飯食べてこいよー。また学園で会おう！』=『Wash your face properly and eat rice. See you again at the school!』
+『ちゃんと顔洗って、ご飯食べてこいよー。また学園で会お\n　う！』=『Wash your face properly and eat rice. See you again at the school!』
 『それと、寝顔にキスしておいた♪　裕子』=『Also, I kissed your sleeping face ♪ Yuko』
 
 ; Lunch
@@ -65,8 +65,8 @@
 「この街にはもう慣れたのか？　よかったらキミを色んなと\n　こに案内したいなー」=「Have you gotten used to this town already? Would you like me to show you around?」
 「ぜーんぜん、むしろここからが本番！　だろー？」=「Not at all, in fact I feel better now! Right?」
 「もうここまで来ちゃったぞ……寂しいけど、また今度だ\n　な」=「It's already time to go, huh.. I feel lonely, but see you next time!」
-「時間あるある！　あたしもまだキミと離れたくないぞ！」=「I have the time! I don't want to leave you just yet!」
-「時間あるある！　あたしもまだキミと離れたくない\n　ぞ！」=「I have the time! I don't want to leave you just yet!」
+「時間あるある！　あたしもまだキミと離れたくないぞ！」=「I have time! I don't want to leave you just yet!」
+「時間あるある！　あたしもまだキミと離れたくない\n　ぞ！」=「I have time! I don't want to leave you just yet!」
 「お邪魔するぞー。へー、ここがキミの部屋なんだー」=「Sorry for intruding~ Eh~ so this is your home, huh..」
 「男子の部屋に入るの、初めてだぞ……何か、そわそわしちゃうなー」=「It's my first time entering a boy's room, so.. somehow, I'm really nervous..」
 「男子の部屋に入るの、初めてだぞ……何か、そわそわし\n　ちゃうなー」=「It's my first time entering a boy's room, so.. somehow, I'm really nervous..」
@@ -98,4 +98,4 @@
 「そうだね。また今度」=「That's right. See you next time!」
 「……時間あるなら、家に来ない？」=「..If you have the time, won't you come to my home?」
 「……時間あるなら、家に来ない？　裕子ともっと一緒にいたいんだ」=「..If you have the time, won't you come to my home? I want to be with you.」
-「……時間あるなら、家に来ない？　裕子ともっと一緒にい\n　たいんだ」=「..If you have the time, won't you come to my home? I want to be with you.」
+「……時間あるなら、家に来ない？　裕子ともっと一緒にい\n　たいんだ」=「..If you have the time, won't you come to my home? I want to be with you.」ght
