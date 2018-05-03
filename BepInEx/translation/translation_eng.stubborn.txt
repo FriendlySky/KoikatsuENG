@@ -2,14 +2,14 @@
 「よ、ようやくお昼……」=「F- finally lunch time..」
 
 ; Conversation end
-「ごめん、もう時間だから……でもあんたさえ良かったら、また話しかけてくれていいわよ」=「Sorry, it's already time, so.. but if you're fine with it, we can talk another time.」
-「ごめん、もう時間だから……でもあんたさえ良かった\n　ら、また話しかけてくれていいわよ」=「Sorry, it's already time, so.. but if you're fine with it, we can talk another time.」
+「ごめん、もう時間だから……でもあんたさえ良かったら、また話しかけてくれていいわよ」=「Sorry, it's already time, so.. but if you're fine with it, we can talk later.」
+「ごめん、もう時間だから……でもあんたさえ良かった\n　ら、また話しかけてくれていいわよ」=「Sorry, it's already time, so.. but if you're fine with it, we can talk later.」
 
 ; Questions
 「あんた、動物は好き？」=「Do you like animals?」
 「もしかしてだけど……食べるの好きだったりする？」=「Could it be.. that you like eating?」
 「私もそんなに……そもそもすぐお腹空いちゃうこの体質がイヤ」=「I'm like that too.. I don't really have the stomach for this in the first place..」
 「私もそんなに……そもそもすぐお腹空いちゃうこの体質が\n　イヤ」=「I'm like that too.. I don't really have the stomach for this in the first place..」
-「あのさ……おしゃれってする……？」=「Hey.. are you fashionable?」
+「あのさ……おしゃれってする……？」=「Hey.. are you into fashion?」
 「あんた、体を動かすのは好きな方？」=「Do you like moving your body?」
-「ふぅん……。答えてくれてありがと」=「Huh.. Thanks for your answer.」
+「ふぅん……。答えてくれてありがと」=「Huh.. Thanks for answering.」
