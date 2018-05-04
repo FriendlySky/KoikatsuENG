@@ -29,6 +29,7 @@ English and Japanese aren't my native languages so there may be grammar or trans
 - Areas
 - Free H
 - Positions
+- Events menu
 
 ## Requirements
 - Latest version of [BepInEx](https://github.com/bbepis/BepInEx/releases)
