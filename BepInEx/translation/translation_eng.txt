@@ -174,7 +174,7 @@ Hしたい=Do H
 ; Areas
 教室1-1=Classroom 1-1
 教室1-2=Classroom 1-2
-教室2-2=Classroom 2-2
+教室2-1=Classroom 2-1
 教室2-2=Classroom 2-2
 教室3-1=Classroom 3-1
 教室3-2=Classroom 3-2
@@ -207,7 +207,9 @@ Hしたい=Do H
 射精して=Climax
 股間で絶頂したい=Cum inside
 表示選択=Select location
+寝=Laid down
 机=Desk
+教室机=Class desk
 立ち=Standing
 椅子=Chair
 長椅子=Couch
@@ -236,6 +238,8 @@ Hしたい=Do H
 吐いてね=Spit it
 入れるよ=I'm putting it in
 アナル入れるよ=I'm putting it in your ass
+入れてね=Put it in
+アナル入れてね=Put it in your ass
 中に出すよ=I'm cumming inside
 外に出すよ=I'm cumming outside
 またお願い=Do it again
@@ -243,10 +247,13 @@ Hしたい=Do H
 ; Positions
 
 ;; Caress
+仰向け愛撫=Caress (floor)
 立ち愛撫=Caress (stand)
 壁バック愛撫=Caress (wall)
 机バック愛撫=Caress (desk)
 椅子バック愛撫=Caress (chair)
+椅子座り愛撫=Caress (sitting)
+四つん這い愛撫=四つん這い愛撫=Caress (all fours)
 
 ;; SERVICE
 
@@ -254,6 +261,7 @@ Hしたい=Do H
 片手コキ=Handjob
 立ち片手コキ=Handjob (stand)
 椅子片手コキ=Handjob (chair)
+立ち手コキ玉いじり=Handjob + fondling (stand)
 立ちオナホ手コキ=Onahole
 
 ;;; Mouth
@@ -273,6 +281,8 @@ Hしたい=Do H
 椅子パイズリ=Titfuck (chair)
 パイズリ+咥え=Titfuck + mouth
 立ちパイズリ+咥え=Titfuck + mouth (stand)
+椅子パイズリ+咥え=Titfuck + mouth (chair)
+椅子腕はさみパイズリ=Titfuck + arms (chair)
 
 ;; Sex
 正常位=Missionary
@@ -284,6 +294,8 @@ Hしたい=Do H
 壁バック=Doggystyle (wall)
 腕引っ張り後背位=Doggystyle (arm pull)
 腕引っ張り椅子バック=Doggystyle (arm pull, chair)
+腕引っ張り机バック=Doggystyle (arm pull, desk)
+騎乗位=Cowgirl
 立位=Standing
 側位=Spooning
 机側位=Spooning (desk)
@@ -292,6 +304,7 @@ Hしたい=Do H
 椅子対面=On chair (facing)
 椅子背面=On chair (back)
 駅弁=Carrying
+壁対面片足上げ=Carrying (wall)
 
 ; Other
 知力=Intelligence
