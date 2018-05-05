@@ -186,8 +186,8 @@
 慌てて手を引っ込めだが、先生の手はすごく柔らかかった。=I quickly drew my hands back after panicking, but.. her hands were really soft.
 「うふふ、作戦成功です。それと話し方も今みたいに普段の話し方でいいですよー」=「Ufufu, my strategy worked~ Also, you can speak to me normally~」
 「うふふ、作戦成功です。それと話し方も今みたいに普段の\n　話し方でいいですよー」=「Ufufu, my strategy worked~ Also, you can speak to me normally~」
-「わかりました、でも非常識な人間ではないので、先生相手には敬語で話させてもらいますね」=「Got it, but I'll have the common sense to address you by your honorific.」
-「わかりました、でも非常識な人間ではないので、先生相手\n　には敬語で話させてもらいますね」=「Got it, but I'll have the common sense to address you by your honorific.」
+「わかりました、でも非常識な人間ではないので、先生相手には敬語で話させてもらいますね」=「I understand, but I have the common sense to address a teacher politely.」
+「わかりました、でも非常識な人間ではないので、先生相手\n　には敬語で話させてもらいますね」=「I understand, but I have the common sense to address a teacher politely.」
 「それで、これからどうすればいいんですか？」=「So, what do I do from now on?」
 「えっとー、この後、私が教室まで案内するので付いてきてください、それから自己紹介してもらいますねー」=「Let's see~ After this, I will show you the way to the classroom, so please follow me. Then you'll introduce yourself, right?」
 「えっとー、この後、私が教室まで案内するので付いてきて\n　ください、それから自己紹介してもらいますねー」=「Let's see~ After this, I will show you the way to the classroom, so please follow me. Then you'll introduce yourself, right?」

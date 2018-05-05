@@ -259,7 +259,7 @@ Hしたい=Do H
 机バック愛撫=Caress (desk)
 椅子バック愛撫=Caress (chair)
 椅子座り愛撫=Caress (sitting)
-四つん這い愛撫=四つん這い愛撫=Caress (all fours)
+四つん這い愛撫=Caress (all fours)
 
 ;; SERVICE
 
