@@ -265,7 +265,7 @@ Hしたい=Do H
 
 ;;; Hand
 片手コキ=Handjob
-両手コキ=両手コキ (2H)
+両手コキ=Handjob (2H)
 立ち片手コキ=Handjob (stand)
 椅子片手コキ=Handjob (chair)
 立ち手コキ玉いじり=Handjob + fondling (stand)
