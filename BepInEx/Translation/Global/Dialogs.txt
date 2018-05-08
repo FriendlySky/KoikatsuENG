@@ -1,0 +1,16 @@
+タイトル=Title
+ゲーム終了=Quit game
+戻る=Return
+ロードデータを選択して下さい=Select save data to load
+セーブデータを選択して下さい=Select save data
+セーブしました=Game saved.
+上書きしますか？=Overwrite this save?
+ロードしますか？=Load this save data?
+タイトルへ戻りますか？=Return to title?
+ゲームを終了しますか？=Quit the game?
+家に帰りますか？=Go home?
+彼女を呼び出しますか？=Call her?
+知力=Intelligence
+体力=Power
+Ｈ力=H power
+選択肢=Choice

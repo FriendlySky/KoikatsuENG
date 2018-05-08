@@ -1,0 +1,296 @@
+﻿1046772347,0,27,0,Color1,女の子
+1046772348,0,27,0,Color1,亜依
+1046772349,0,27,0,Color1,？？？
+1046772350,0,43,0,in,1,black,back,TRUE
+1046772351,0,156,0,-1,FALSE
+1046772352,0,101,0,1,Null,advPos_op01
+1046772353,0,106,0,1,Stand_19_00
+1046772354,0,97,0,0,-10
+1046772355,0,106,0,0,Stand_19_00
+1046772356,0,112,0,0,焦り
+1046772357,0,160,0,0,TRUE
+1046772358,0,101,0,0,Null,advPos_op05
+1046772359,0,131,0,0,TRUE
+1046772360,0,156,0,0,FALSE
+1046772361,0,37,0,advPos_op04,Camera
+1046772362,0,88,0,Communication,,0,,TRUE
+1046772363,0,25,0,.5
+1046772364,0,43,0,out,1,black,back,TRUE
+-92474913,0,16,0,[P名],(Hm\, there are two free seats.. which one do I sit on?)
+732719717,0,16,0,,She wants me to sit over there\, but I don't think she noticed that the neighboring seat was free.
+1046772367,0,19,0,1,困り顔
+1046772368,0,17,0,1,,op_-4_0028
+-1293770277,0,16,0,Nonoka,「If there is something you don't understand\, you can ask your neighbor Minase-san\, all.. right? Oh? It seems like she's absent today.」
+1046772370,0,19,0,1,笑顔
+1046772371,0,17,0,1,,op_-4_0029
+914137688,0,16,0,Nonoka,「For now\, it's fine if you sit there.」
+-1738483362,0,16,0,[P名],「Ah\, okay.」
+1046772374,0,57,0,1
+1046772375,0,37,0,advPos_op06,Camera
+1046772376,0,86,0,ddd
+1046772377,0,87,0,25
+1046772378,0,112,0,1,標準
+1104829354,0,16,0,,As I take my seat\, Sakurai-sensei starts telling us about news and other information.
+-1266972785,0,16,0,,Meanwhile\, I don't hear anyone whispering\, but instead I keep making eye contact with girls.
+-1853156008,0,16,0,,It's not like there's a negative atmosphere\, but I can't help  but feel ashamed for some reason.
+895952709,0,16,0,,I said I'd be quiet but that's exactly how it feels right now.
+875579221,0,16,0,[P名],(But I don't really mean it. I need to find a chance to get on good terms with everyone before it's too late.)
+-647878015,0,16,0,[P名],(At the very least\, except for my neighbor who's absent..)
+-1967978537,0,16,0,,As I'm thinking\, I take a look at my neighbor's desk. There are no scribbles and there's nothing inside.
+1310442107,0,16,0,[P名],(Minase-san\, I'd love to talk with you. I'd like to know what kind of person you are and get along with you\, but..)
+-187738075,0,16,0,,While I was busy thinking\, Sakurai-sensei closed her notebook as she spoke.
+1046772388,0,19,0,1,微笑
+1046772389,0,18,0,1,Stand_24_00
+1046772390,0,17,0,1,,op_-4_0030
+-1667958372,0,16,0,Nonoka,「This is the lesson for today. Ufufu\, everyone\, are you listening? You all look restless~」
+-75751243,0,16,0,,This is certainly because of me showing up. However\, what Sakurai-sensei said was more directed towards the girls.
+1046772393,0,19,0,1,標準
+1046772394,0,18,0,1,Stand_01_00
+1046772395,0,17,0,1,,op_-4_0031
+684790542,0,16,0,Nonoka,「You've all been doing as you please up until now\, but now that a boy is here\, you should behave properly\, right?」
+1046772397,0,17,0,1,,op_-4_0032
+1003197944,0,16,0,Nonoka,「Don't throw away your napkin\, Don't show your underwear while walking\, all right?」
+1189959519,0,16,0,,Just what is she talking about.. the girls are wryly smiling and saying they'll be careful.
+1878887388,0,16,0,[P名],(I see. There weren't any boys here so they didn't need to feel shy.. or I should say\, embarassed..)
+315342075,0,16,0,[P名],(However\, that's right.. if I were in a boy's school\, I wouldn't have to worry about a girl staring..)
+-812154025,0,16,0,,With me here\, they can't really open up to the opposite sex. I essentially barged in..
+1046772403,0,19,0,1,標準
+1046772404,0,18,0,1,Stand_24_00
+1046772405,0,17,0,1,,op_-4_0033
+2099573266,0,16,0,Nonoka,「Now that a boy is here\, your life will change a little bit.. the principal would especially like all of you to study and take the first step~」
+1046772407,0,19,0,1,笑顔（目閉じ）
+1046772408,0,17,0,1,,op_-4_0034
+600297996,0,16,0,Nonoka,「School is precious\, so make sure to study a lot and make the best of it in your life~」
+1046772410,0,19,0,1,微笑
+1046772411,0,18,0,1,Stand_Oth_00
+1046772412,0,17,0,1,,op_-4_0035
+-917241096,0,16,0,Nonoka,「Well then\, it's about time for homeroom to end.. oh?」
+1046772414,0,57,0,1
+1046772415,0,37,0,advPos_op13,Camera
+1046772416,0,128,0,1,1,1
+1046772417,0,129,0,1,7
+1046772418,0,92,0,sound/data/se/00.unity3d,se_run_rouka,0,0,TRUE,TRUE,-1,FALSE,FALSE
+218738766,0,16,0,,I think Sakurai-sensei is looking at the corridor. I can hear the sound of footsteps from afar.
+-980552891,0,16,0,,And then..
+1046772421,0,93,0,0
+1046772422,0,92,0,sound/data/se/00.unity3d,se_door1_open,0,0,TRUE,FALSE,-1,FALSE,FALSE
+1046772423,0,43,0,in,1,black,back,TRUE
+1046772424,0,87,0,ddd
+1046772425,0,133,0,2,0
+1046772426,0,133,0,3,0
+1046772427,0,133,0,4,0
+1046772428,0,99,0,2
+1046772429,0,99,0,3
+1046772430,0,99,0,4
+1046772431,0,172,0,isu00 (10),TRUE
+1046772432,0,172,0,isu00 (9),TRUE
+1046772433,0,172,0,isu00 (19),TRUE
+1046772434,0,128,0,1,0,1
+1046772435,0,156,0,1,FALSE
+1046772436,0,156,0,0,TRUE
+1046772437,0,128,0,0,1,1
+1046772438,0,129,0,0,1
+1046772439,0,136,0,adv/eventcg/00.unity3d,EventCG_op_su_a
+1046772440,0,88,0,Date,,0,,TRUE
+1046772441,0,25,0,0
+1046772442,0,43,0,out,1,black,back,TRUE
+1046772443,0,17,0,0,sound/data/pcm/c-10/adv/00.unity3d,op_-10_0000
+1883400712,0,16,0,Girl,「Mngh\, hmmnh~!」
+1046772445,0,17,0,1,sound/data/pcm/c-4/adv/00.unity3d,op_-4_0036
+-1266777106,0,16,0,Nonoka,「Well\, well. Minase-san\, you barely made it in~」
+-182729452,0,16,0,[P名],(Homeroom already started\, so isn't she out..?)
+1046772448,0,17,0,1,,op_-4_0037
+2079170471,0,16,0,Nonoka,「Also\, if you talk with food in your mouth\, you'll make the transfer student over there laugh~」
+1046772450,0,43,0,in,.5,black,back,TRUE
+1046772451,0,128,0,0,3,1
+1046772452,0,125,0,0,1
+1046772453,0,136,0,adv/eventcg/00.unity3d,EventCG_op_su_b
+1046772454,0,138,0,1
+1046772455,0,25,0,0
+1046772456,0,43,0,out,.5,black,back,TRUE
+1046772457,0,19,0,0,疑問
+1046772458,0,17,0,1,sound/data/pcm/c-10/adv/00.unity3d,op_-10_0001
+816826696,0,16,0,Girl,「Mh..?」
+1046772460,0,19,0,0,驚き
+1046772461,0,17,0,0,,op_-10_0002
+1694142003,0,16,0,Girl,「Mngh!?」
+1046772463,0,126,0,0,3
+1046772464,0,138,0,2
+1046772465,0,19,0,0,照れ顔
+1046772466,0,17,0,0,,op_-10_0003
+1132951976,0,16,0,Girl,「S- sorry. I overslept again..」
+1046772468,0,126,0,0,0
+1046772469,0,19,0,0,ちょっと照れた笑顔
+1046772470,0,17,0,0,,op_-10_0004
+618695887,0,16,0,Girl,「Um.. hello.. I mean\, good morning!」
+1779301418,0,16,0,[P名],「G- good morning..?」
+-1432607032,0,16,0,,She suddenly greeted me\, so I answered her back by reflex.
+1046772474,0,19,0,0,笑顔
+1046772475,0,17,0,0,,op_-10_0005
+-841157479,0,16,0,Ai,「Also\, nice to meet you! I'm Minase Ai and I'm a member of the Swimming Club.」
+1046772477,0,17,0,1,sound/data/pcm/c-4/adv/00.unity3d,op_-4_0038
+2074190395,0,16,0,Nonoka,「Ufufu.. Minase-san\, if you introduce yourself in front of everyone during homeroom\, we won't know who's the transfer student~」
+1046772479,0,19,0,0,照れ顔
+1046772480,0,17,0,0,sound/data/pcm/c-10/adv/00.unity3d,op_-10_0006
+-877465558,0,16,0,Ai,「Ah\, sorry! It's no good\, I'm still half asleep!」
+-1763038681,0,16,0,,The teacher was playing the straight man as Minase-san made everyone in the classroom laugh.
+-917785779,0,16,0,,Seeing how heartily they're laughing\, I can tell how much they like Minase-san.
+-1067058341,0,16,0,,Certainly\, she's the life of the party and helps brighten the class' usual atmosphere.
+1046772485,0,43,0,in,1,black,back,TRUE
+1046772486,0,137,0,FALSE
+1046772487,0,37,0,advPos_op11,Camera
+1046772488,0,129,0,0,0
+1046772489,0,131,0,0,FALSE
+1046772490,0,156,0,1,TRUE
+1046772491,0,112,0,1,笑顔（目閉じ）
+1046772492,0,106,0,1,Stand_19_00
+1046772493,0,25,0,0
+1046772494,0,43,0,out,1,black,back,TRUE
+1046772495,0,17,0,1,sound/data/pcm/c-4/adv/00.unity3d,op_-4_0039
+-1392824939,0,16,0,Nonoka,「Now that Minase-san has helped brighten the mood\, shall we wrap up homeroom?」
+1046772497,0,17,0,1,,op_-4_0040
+-257916613,0,16,0,Nonoka,「For the time being\, are you fine with sitting next to the transfer student\, Minase-san?」
+981884204,0,16,0,,Sakurai-sensei's ad-lib made the whole classroom laugh again.
+1046772500,0,19,0,0,照れ顔
+1046772501,0,17,0,0,sound/data/pcm/c-10/adv/00.unity3d,op_-10_0007
+-657129363,0,16,0,Ai,「Uuh~ I really did it this time~」
+1046772503,0,57,0,1
+1046772504,0,156,0,0,FALSE
+-1758847821,0,16,0,,Minase-san moved between desks and sat on the seat next to mine.
+1046772506,0,57,0,1
+1046772507,0,172,0,isu00 (5),FALSE
+1046772508,0,132,0,0,0,adv/item/00.unity3d,p_o_koi_map00_isu00,BodyTop,FALSE
+1046772509,0,37,0,advPos_op14,Camera
+1046772510,0,101,0,0,Null,advPos_op15
+1046772511,0,112,0,0,笑顔
+1046772512,0,106,0,0,Idle_09_02
+1046772513,0,156,0,0,TRUE
+1046772514,0,17,0,0,,op_-10_0008
+-1969891908,0,16,0,Ai,「Well.. Ehehe\, please treat me well~」
+-329488590,0,16,0,[P名],「Ahaha.. yeah\, likewise.」
+-1772496832,0,16,0,,While we were whispering greetings to each other\, Minase-san looked embarassed.
+1046772518,0,43,0,in,.5,black,back,TRUE
+1046772519,0,156,0,1,FALSE
+1046772520,0,133,0,0,0
+1046772521,0,172,0,isu00 (5),TRUE
+1046772522,0,37,0,advPos_op06a,Camera
+1046772523,0,88,0,Encounter,,0,,TRUE
+1046772524,0,43,0,out,.5,black,back,TRUE
+-1271522002,0,16,0,,When homeroom ends\, we have one hour to prepare for the lesson.
+1793905739,0,16,0,,I take out my textbooks and notebook from my bag.. then I take my pencil and eraser from my pencil case.. and close it.
+1200900726,0,16,0,[P名],(..What do I do\, there's nothing to do..)
+1148961259,0,16,0,,At my previous school I had guy friends I could talk to\, but in here the 『guy friend』 doesn't exist.
+1983601762,0,16,0,,There are girls as far as the eye can see\, yet they're all looking away from me\, such is the distance between them and me.
+-1985634759,0,16,0,[P名],(Well\, it's my first day after all.. I don't exactly fit in yet\, so this much distance is understandable.)
+695337363,0,16,0,,Even more so in a girls' school.
+-336375915,0,16,0,[P名],(They're being cautious of me\, so talking isn't really possible.)
+-1399675885,0,16,0,,Maybe I'll get a chance to enter a circle. For now\, even though it's a bit awkward\, I'll wait.
+1046772534,0,17,0,0,,op_-10_0009
+-139359800,0,16,0,？？？,「Yoohoo~」
+-1460400806,0,16,0,[P名],「Waah!?」
+1046772537,0,57,0,1.5
+1046772538,0,37,0,advPos_op07,Camera
+1046772539,0,101,0,0,Null,advPos_op08
+1046772540,0,112,0,0,驚き
+1046772541,0,106,0,0,Stand_Oth_01
+1046772542,0,156,0,0,TRUE
+1046772543,0,17,0,0,,op_-10_0010
+-1236787924,0,16,0,Ai,「Eeh!? S- sorry..? Did I surprise you?」
+807652406,0,16,0,,As I turned towards the voice that surprised me\, I saw Minase-san who was also surprised.
+1109965282,0,16,0,[P名],「No\, I'm sorry.. I was daydreaming.」
+1046772547,0,19,0,0,笑顔
+1046772548,0,18,0,0,Stand_21_00
+1046772549,0,17,0,0,,op_-10_0011
+1725443939,0,16,0,Ai,「Ehehe\, did you oversleep too? Of course not\, huh. Sorry I couldn't listen to your self-introduction earlier.」
+-569648169,0,16,0,[P名],「No.. on the contrary\, it's better if you didn't.. I was really nervous and could barely say anything.」
+1939104891,0,16,0,,As I recall Sakurai-sensei's absurd responses and my terrible self-introduction\, a bitter smile forms on my face.
+1046772553,0,18,0,0,Stand_Joy_01
+1046772554,0,17,0,0,,op_-10_0012
+341084433,0,16,0,Ai,「Is that so.. but\, you did it in the end\, right? I'm the complete opposite\, if I were in your shoes I wouldn't have been able to do anything.」
+1046772556,0,19,0,0,苦笑
+1046772557,0,18,0,0,Stand_01_00
+1046772558,0,17,0,0,,op_-10_0013
+-1104641613,0,16,0,Ai,「So I don't think it's right to think you did badly.. what can I say\, I wasn't here to hear it so it sounds like I'm trying to persuade you..」
+1630838337,0,16,0,[P名],「No\, that's not true..」
+1397716585,0,16,0,,Talking to Minase-san has warded off the feeling I had earlier.
+324444054,0,16,0,,Certainly\, I felt really anxious so speaking to her made me feel relaxed.
+1629974403,0,16,0,[P名],「Thanks to you\, I feel much more at ease.」
+1046772564,0,19,0,0,笑顔（目閉じ）
+1046772565,0,17,0,0,,op_-10_0014
+-683020536,0,16,0,Ai,「Ehehe~ if that's the case\, I'm glad. But\, try thinking about why they're anxious. You're the only boy in a girls' class after all~」
+1046772567,0,19,0,0,疑問
+1046772568,0,18,0,0,Stand_Joy_09
+1046772569,0,17,0,0,,op_-10_0015
+-1458672034,0,16,0,Ai,「If I were a boy.. No\, as expected I can't imagine it. How does it feel moving in? Anything different?」
+1735866913,0,16,0,,When I think about Minase-san being so outspoken\, I reconsider my impression of the school.
+834574893,0,16,0,,There are only girls\, sure\, but there are some obvious differences.
+-977550069,0,16,0,[P名],(But if I say that out loud\, I'll be branded a pervert..)
+1046772574,0,19,0,0,微笑
+1046772575,0,18,0,0,Stand_Joy_01
+1046772576,0,17,0,0,,op_-10_0016
+791880633,0,16,0,Ai,「Oh\, that face! I knew there's something different!」
+350584817,0,16,0,[P名],「..No\, I probably shouldn't say it.」
+1046772579,0,19,0,0,標準
+1046772580,0,18,0,0,Stand_01_00
+1046772581,0,17,0,0,,op_-10_0017
+2015539394,0,16,0,Ai,「Eh\, why? On the contrary\, I'm worried!」
+-401135625,0,16,0,[P名],「No.. well.. it's the smell.」
+1046772584,0,19,0,0,疑問
+1046772585,0,17,0,0,,op_-10_0018
+766742878,0,16,0,Ai,「Smell?」
+1247521880,0,16,0,[P名],「Yeah. This smell is.. everywhere.」
+-280755256,0,16,0,,What am I even saying!?
+489339557,0,16,0,[P名],「Sorry\, ignore what I just said! How do I put it\, I said something wrong!」
+1046772590,0,19,0,0,笑顔
+1046772591,0,18,0,0,Stand_24_00
+1046772592,0,17,0,0,,op_-10_0019
+1644172193,0,16,0,Ai,「Eh\, is that so? Somehow\, I'm not convinced\, but..」
+1046772594,0,17,0,0,,op_-10_0020
+986158580,0,16,0,Ai,「Girls wear perfume and make-up\, is that what you were talking about?」
+132901961,0,16,0,,I see. The moment I entered the classroom\, there was this 『indescriptive smell』 but it's in fact coming from the girls.
+1095770488,0,16,0,[P名],「Ah\, well\, it would've sounded gross if I said it\, so..」
+1046772598,0,19,0,0,微笑
+1046772599,0,17,0,0,,op_-10_0021
+186432618,0,16,0,Ai,「It's fine\, isn't it? You're a good person after all.」
+12742578,0,16,0,[P名],「Isn't it troublesome? Also\, I'm a good person? In what way?」
+1046772602,0,19,0,0,思案
+1046772603,0,18,0,0,Stand_01_00
+1046772604,0,17,0,0,,op_-10_0022
+984984123,0,16,0,Ai,「Hmm.. you're sincere.. you're already prepared for the lesson and you even pay attention to your surroundings..」
+1046772606,0,19,0,0,標準
+1046772607,0,17,0,0,,op_-10_0023
+955555485,0,16,0,Ai,「Seeing a boy around here is unexpected\, isn't it? That's why I think you should be upfront.」
+1392432629,0,16,0,[P名],「T- that's..」
+-43851408,0,16,0,[P名],(..No. The 『girl's point of view』 is important\, isn't it?)
+-388065782,0,16,0,[P名],(From now on\, I have to get along with the girls through my club's activities..)
+1716381032,0,16,0,[P名],(Be upfront\, huh..? All right\, time to give it my all!)
+201192388,0,16,0,[P名],「Thanks Minase-san\, that was really helpful.」
+1046772614,0,19,0,0,笑顔
+1046772615,0,18,0,0,Stand_Joy_01
+1046772616,0,17,0,0,,op_-10_0024
+-726442553,0,16,0,Ai,「Eh? I don't think I did anything\, but.. I'm glad to have helped if I did.」
+1046772618,0,92,0,sound/data/se/00.unity3d,se_school_chime,0,0,TRUE,FALSE,-1,FALSE,FALSE
+1046772619,0,128,0,0,1,1
+1046772620,0,19,0,0,焦り
+1046772621,0,18,0,0,Stand_Oth_02
+1046772622,0,17,0,0,,op_-10_0025
+1196138448,0,16,0,Ai,「Ah\, the lesson is starting.」
+1046772624,0,57,0,1
+1046772625,0,156,0,0,FALSE
+-126790266,0,16,0,,Minase-san wasn't yet ready so she hurriedly took her textbook from her bag.
+1889094675,0,16,0,,And then\, she turned towards me.
+1046772628,0,128,0,0,3,1
+1046772629,0,57,0,1
+1046772630,0,156,0,0,TRUE
+1046772631,0,19,0,0,笑顔
+1046772632,0,18,0,0,Stand_24_00
+1046772633,0,17,0,0,,op_-10_0026
+-145146397,0,16,0,Ai,「Listen\, some girls around here might be a bit irritable\, so if you're fine with me\, you can consult me about anything\, all right?」
+-1764699428,0,16,0,,I felt like that was the most helpful thing she said up until now.
+-2088123616,0,16,0,[P名],(To be honest\, the girls here are really reserved\, but I hope we'll be able to understand each other if we talk.)
+1889025622,0,16,0,[P名],(That's a lot to process for my first day.)
+-136936777,0,16,0,,Before I could notice\, my shoulders were feeling light and my eyes were raised.
+186031420,0,16,0,[P名],(Alright\, time to study\, exercise\, run my club.. and enjoy youth!)
+1046772640,0,93,0,0
+1046772641,0,44,0,in,3,,,none
+1046772642,0,167,0,昼休み
