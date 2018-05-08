@@ -1,6 +1,0 @@
-アップロード=Upload
-利用規約=Terms of service
-本当にアップロードしますか？=Really upload this?
-※既存の版権に抵触する恐れのある記述はお控えください。\r\n　確認次第削除させていただく場合がございます。=※Please refrain from infringing any copyrights. Infringing material will be deleted if confirmed.
-データを取得しています=Loading data..
-キャラデータをアップロードしました=Uploading character data..
