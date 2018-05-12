@@ -1,0 +1,65 @@
+; Tops
+キュートナース服=Cute Nurse Outfit
+
+; Legwear
+網ニーソックス=Fishnet Kneesocks
+メカソックス=Mecha Socks
+
+; Shoes
+キュートナースシューズ=Cute Nurse Shoes
+
+; Accessories
+;; Hair
+メカヘアー=Mecha Hair
+メカウィングリング=Mecha Wing Ring
+メカループ=Mecha Loop
+
+;; Head
+キュートナースキャップ=Cute Nurse Cap
+メカレシーバー=Mecha Receiver
+メカ装甲１=Mecha Armor 1
+メカ装甲２=Mecha Armor 2
+メカ装甲３=Mecha Armor 3
+メカ装甲４=Mecha Armor 4
+メカポッド=Mecha Pod
+メカシールド=Mecha Shield
+メカゴーグル=Mecha Goggles
+メカバイザー=Mecha Visor
+メカボール=Mecha Ball
+メカポール=Mecha Pole
+メカボックス=Mecha Box
+メカビームポール=Mecha Beam Pole
+メカデルタ=Mecha Delta
+メカサークル=Mecha Circle
+メカウィング=Mecha Wing
+メカブースター=Mecha Booster
+メカドリル=Mecha Drill
+メカチューブ=Mecha Tube
+メカシザー=Mecha Scissors
+艦艇の模型=Dummy Warship
+魚雷発射管の模型=Dummy Torpedo Tube
+2連装砲台の模型=Dummy Twin Guns
+メカアンテナ=Mecha Antenna
+メカウイングⅡ=Mecha Wing II
+メカバイザーⅡ=Mecha Visor II
+
+; Neck
+メカタイ=Mecha Tie
+
+; Hips
+メカアンプ=Mecha Amps
+
+; Arms
+メカショルダー=Mecha Shoulder
+メカ装甲５=Mecha Armor 5
+メカ装甲６=Mecha Armor 6
+メカ装甲６×３=Mecha Armor 6x3
+メカシールドⅡ=Mecha Shield II
+メカブースターⅡ=Mecha Booster II
+
+;; Legs
+注射ガーターリング（左）=Syringe Garter Ring (Left)
+注射ガーターリング（右）=Syringe Garter Ring (Right)
+
+;; Hand
+注射器=Syringe
