@@ -16,3 +16,4 @@
 ぱっつんロング=Straight Long Bangs
 
 ; Front
+ぱっつんエアインテーク=ぱっつんエアインテーク
